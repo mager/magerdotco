@@ -15,11 +15,11 @@ The website has a few goals:
 
 Each post is written in [Markdown](https://en.wikipedia.org/wiki/Markdown), which is a format that isn't going away any time soon:
 
-![Editing in Markdown](../../src/images/blog/2020-02-22-hello-world/md.png)
+![Editing in Markdown](/images/blog/2020-02-22-hello-world/md.png)
 
 And this website is built using the open source project [Gatsby](https://www.gatsbyjs.org) and hosted using [Netlify](https://netlify.com):
 
-![Netlify](../../src/images/blog/2020-02-22-hello-world/netlify.png)
+![Netlify](/images/blog/2020-02-22-hello-world/netlify.png)
 
 UppubDate: The current design is from the [Gatsby Starter Blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/), but expect something different soon when I collaborate with [@marcm](https://twitter.com/marcm).
 

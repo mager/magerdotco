@@ -8,7 +8,7 @@ tags: ["Events"]
 
 I’m in San Francisco this week to attend the Square Developer Advisory Board and [Unboxed](https://squareunboxed.com/), Square’s developer conference.
 
-![](../../src/images/blog/2019-10-17-square-unboxed/1__oMWnrJFBistE6t4pO7g4Q.jpeg)
+![](/images/blog/2019-10-17-square-unboxed/1__oMWnrJFBistE6t4pO7g4Q.jpeg)
 
 _Square Developer Advisory Board, 2019_
 

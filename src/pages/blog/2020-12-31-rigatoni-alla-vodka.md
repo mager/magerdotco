@@ -13,7 +13,7 @@ If I had to choose a last meal, this would be in the top five for sure. It's my 
 
 All the credit for this dish goes to Claire Saffitz and Molly Baz ([YouTube](https://www.youtube.com/watch?v=DrzWGUGN6vY), [Bon Appetit](https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce)).
 
-![BA's Rigatoni with Easy Vodka Sauce](../../src/images/blog/2020-12-31-rigatoni-alla-vodka/ba.png)
+![BA's Rigatoni with Easy Vodka Sauce](/images/blog/2020-12-31-rigatoni-alla-vodka/ba.png)
 
 The ingredient list is short, and it will teach you how to make vodka sauce (yes there is actually vodka in there). You'll be surprised how far tomato paste goes in this recipe, and how creamy and delicous the sauce will be.
 
@@ -34,7 +34,7 @@ I'm jealous that you're getting ready to cook this tonight.
   <li itemProp="recipeIngredient">Basil leaves</li>
 </ul>
 
-![Ingredients](../../src/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-1.jpg)
+![Ingredients](/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-1.jpg)
 
 <h4>Instructions:</h4>
 
@@ -68,6 +68,6 @@ I'm jealous that you're getting ready to cook this tonight.
 
 <p itemProp="recipeInstruction">If you want to jazz it up even more, you can bake it in a casarole with fresh ricotta & mozzarella (20 min at 375°). If you do this, make the pasta even more al dente.</p>
 
-![Finished product](../../src/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-2.jpg)
+![Finished product](/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-2.jpg)
 
 Hope you had fun making this and it tastes phenominal. Check back soon for more recipes!

@@ -8,7 +8,7 @@ tags: ["Tutorial", "Code", "Google Cloud", "Database"]
 
 When I started to build [Cafebean](https://cafebean.org) ([an open coffee bean database](http://localhost:8000/posts/2021-01-03-go-fx-firestore-app/)), I decided to use Firestore as my document database for the beans & roaster data. As I add the ability for users to reviews beans, I need a relational database for that. I chose [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) because I've used it in production before, and it's relatively straightforward to set up.
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/beans-reviews-users.png)
+![](/images/blog/2021-04-25-gcloud-postgres/beans-reviews-users.png)
 
 Google actually offers a hosted version of Postgres which is higly reliable, and fully-featured, but it comes at a [higher price tag](https://cloud.google.com/sql/docs/pricing-examples).
 
@@ -26,17 +26,17 @@ Create a [Google Cloud project](https://console.cloud.google.com/project) and en
 
 Enter a name for your instance and use the default region. In Machine Configuration, choose General Purpose, Series N1, Machine type f1-micro (1 vCPU, 614 MB memory). It seems like a dinky machine, but it's only serving one purpose: handing a single database connection to a single client. If my site grows, it should be easy to scale up.
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-1.png)
+![](/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-1.png)
 
 NOTE: Compute Engine has a nice feature where you can deploy a container to an instance, and we could easily deploy the postgres image, but I'm going to show you how to install it manually.
 
 For the boot disk, choose the latest Ubuntu version:
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-2.png)
+![](/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-2.png)
 
 Finally, in the Firewall > Networking section, add a network tag:
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-3.png)
+![](/images/blog/2021-04-25-gcloud-postgres/gcp-postgres-3.png)
 
 Click Create and you should have an instance running in a few minutes.
 
@@ -73,7 +73,7 @@ Check to make sure it's running:
 
 You should see something like this:
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/postgres-running.png)
+![](/images/blog/2021-04-25-gcloud-postgres/postgres-running.png)
 
 Fire up `psql` with user `postgres`:
 
@@ -130,7 +130,7 @@ Open the `pg_hba.conf` [config file](https://www.postgresql.org/docs/9.1/auth-pg
 
 Head to the bottom of the page and add you IP address (you can find your IP at [http://httpbin.org/ip](http://httpbin.org/ip)).
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/pg_hba-conf-1.png)
+![](/images/blog/2021-04-25-gcloud-postgres/pg_hba-conf-1.png)
 
 Don't forget the `/32` subnet suffix.
 
@@ -142,7 +142,7 @@ Save the file and exit the code editor. We have to update one more file, `postgr
 
 Look for the `listen_addresses` rule (around line 59) and set it to `'*'`:
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/postgresql-conf.png)
+![](/images/blog/2021-04-25-gcloud-postgres/postgresql-conf.png)
 
 Save and close and restart Postgres:
 
@@ -177,7 +177,7 @@ And then connect (you will be promted for a password):
 
 If all goes well you should see the the postgres prompt. Feel free to run a query to test the data:
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/postgres-local.png)
+![](/images/blog/2021-04-25-gcloud-postgres/postgres-local.png)
 
 ## Talking to the instance from your Cloud Run app
 
@@ -234,7 +234,7 @@ cafebean-api  34.67.158.60   EXTERNAL                    us-central1          IN
 
 Now we just need to update our Postgres `pg_hba.conf` file. `ssh` back into the instance and add your static IP to the list.
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/pg_hba-conf-2.png)
+![](/images/blog/2021-04-25-gcloud-postgres/pg_hba-conf-2.png)
 
 Restart your postgres instance:
 
@@ -244,7 +244,7 @@ Restart your postgres instance:
 
 That's it. Your Cloud Run app can now talk to the Postgres server. If you want to see it in action, make a request to the API to [fetch all reviews](https://api.cafebean.org/reviews), or check out the [bean page for Ipsento Cascade Espresso](https://cafebean.org/beans/ipsento-cascade-espresso), which I've been using for test reviews.
 
-![](../../src/images/blog/2021-04-25-gcloud-postgres/cafebean-review-page.png)
+![](/images/blog/2021-04-25-gcloud-postgres/cafebean-review-page.png)
 
 ## Conclusion
 

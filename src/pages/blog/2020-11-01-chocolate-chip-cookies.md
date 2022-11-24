@@ -13,7 +13,7 @@ I haven't posted on here as much as I'd like (2020), but I'm excited to share my
 
 Up until about 6 months ago, I didn't have a chocolate chip cookie recipe in my arsenal, until I discovered this gem from Milk Bar's Christina Tosi.
 
-<a href="https://www.christinatosi.com/post/best-ever-chocolate-chip-cookies" target="_blank">![Better image coming soon](../../src/images/blog/2020-11-01-chocolate-chip-cookies/tosi.png)</a>
+<a href="https://www.christinatosi.com/post/best-ever-chocolate-chip-cookies" target="_blank">![Better image coming soon](/images/blog/2020-11-01-chocolate-chip-cookies/tosi.png)</a>
 
 The key here is to get your butter to room temperature, then put it in the fridge for 15 minutes before you start. This makes creaming the butter with the sugars easy and it sets up a nice base for your dough.
 
@@ -61,7 +61,7 @@ And the milk powder is optional, but I highly recommend it.
     Bake for 16-18 minutes, then take the cookies out to cool and rest for at least 30 minutes (unless you want warm, gooey chocolate chips). These cookies go great with a bowl of Scooter's vanilla frozen custard (if you live in Chicago).
 </p>
 
-![His and hers](../../src/images/blog/2020-11-01-chocolate-chip-cookies/cookies.jpg)
+![His and hers](/images/blog/2020-11-01-chocolate-chip-cookies/cookies.jpg)
 
 ---
 

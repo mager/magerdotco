@@ -453,7 +453,7 @@ Success! Selected Google Cloud Firestore Native database for caffy-beans-example
 
 You should be able to see an empty Firestore database if you visit [https://console.cloud.google.com/firestore/data?project=your-project-name](https://console.cloud.google.com/firestore/data?project=your-project-name).
 
-![](../../src/images/blog/2021-01-03-go-fx-firestore-app/firestore-empty.png)
+![](/images/blog/2021-01-03-go-fx-firestore-app/firestore-empty.png)
 
 Let's add some data. Create a new collection called `beans` and some fields:
 
@@ -464,11 +464,11 @@ Let's add some data. Create a new collection called `beans` and some fields:
 | `flavors` | `array`  | `blackberry`, `toffee` |
 | `shade`   | `string` | `light`                |
 
-![](../../src/images/blog/2021-01-03-go-fx-firestore-app/firestore-bean.png)
+![](/images/blog/2021-01-03-go-fx-firestore-app/firestore-bean.png)
 
 You should be able to view the data after creating it:
 
-![](../../src/images/blog/2021-01-03-go-fx-firestore-app/firestore-bean-1.png)
+![](/images/blog/2021-01-03-go-fx-firestore-app/firestore-bean-1.png)
 
 Now let's give our local application access to Firebase.
 
@@ -777,7 +777,7 @@ invalid roaster
 
 This is expected because we haven't added the `roasters` collection, so let's do that real quick. Go back to the GCP dashboard and add a collection:
 
-![](../../src/images/blog/2021-01-03-go-fx-firestore-app/firestore-roaster.png)
+![](/images/blog/2021-01-03-go-fx-firestore-app/firestore-roaster.png)
 
 The data looks like this:
 
@@ -786,7 +786,7 @@ The data looks like this:
 | `name` | `string` | `Ipsento`             |
 | `url`  | `string` | `https://ipsento.com` |
 
-![](../../src/images/blog/2021-01-03-go-fx-firestore-app/firestore-roaster-1.png)
+![](/images/blog/2021-01-03-go-fx-firestore-app/firestore-roaster-1.png)
 
 Now let's retry the request:
 
