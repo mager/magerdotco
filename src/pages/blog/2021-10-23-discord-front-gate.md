@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: How to setup a "front gate" channel in Discord
 pubDate: "2021-10-23"
-summary: Quick tutorial for making your Discord server a little safer.
+description: Quick tutorial for making your Discord server a little safer.
 tags: ["Tutorial", "Discord", "Security"]
 ---
 

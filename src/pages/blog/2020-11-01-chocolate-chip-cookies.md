@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Quarantine Chocolate Chip Cookies"
 pubDate: "2020-11-01"
-summary: Your new go-to cookie recipe, great for quarantining.
+description: Your new go-to cookie recipe, great for quarantining.
 tags: ["Recipe"]
 ---
 

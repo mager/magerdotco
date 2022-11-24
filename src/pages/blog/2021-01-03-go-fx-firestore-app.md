@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Building a coffee API with Go Fx and Firestore"
 pubDate: "2021-01-03"
-summary: "A step-by-step walkthrough of building a Go Fx app using Firestore to build a database of coffee beans & roasters and an API to fetch & update data."
+description: "A step-by-step walkthrough of building a Go Fx app using Firestore to build a database of coffee beans & roasters and an API to fetch & update data."
 tags: ["Cafebean", "Database", "Code", "Tutorial", "Google Cloud"]
 ---
 

@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: How to set up a Postgres on GCP without Cloud SQL
 pubDate: "2021-05-08"
-summary: "Here are some instructions on how to setup a Postgres database in the cloud, and access it from your other cloud services like Cloud Run. This is an alternative to the managed Cloud SQL service from Google, and is more affordable if you have a smaller use case."
+description: "Here are some instructions on how to setup a Postgres database in the cloud, and access it from your other cloud services like Cloud Run. This is an alternative to the managed Cloud SQL service from Google, and is more affordable if you have a smaller use case."
 tags: ["Tutorial", "Code", "Google Cloud", "Database"]
 ---
 

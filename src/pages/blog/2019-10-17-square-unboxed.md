@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Live Blog: Square Unboxed 2019"
 pubDate: "2019-10-17"
-summary: "I learned a lot at the Square developer conference"
+description: "I learned a lot at the Square developer conference"
 tags: ["Events"]
 ---
 

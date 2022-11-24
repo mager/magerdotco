@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "DRAFT: Best Podcasts of 2021"
 pubDate: "2021-12-31"
 tags: ["Podcasts"]
-summary: "A collection of my favorite podcasts from the past year."
+description: "A collection of my favorite podcasts from the past year."
 ---
 
 _This post is a work in progress. I'll finish it soon._

@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Building a Discord bot with Go on Google Cloud's free tier"
 pubDate: "2022-03-13"
 tags: ["Google Cloud", "Tutorial", "Discord"]
-summary: "Using the Cloud Run and Cloud Scheduler, we'll create a Discord bot that listens for a specific word, and responds. Code included."
+description: "Using the Cloud Run and Cloud Scheduler, we'll create a Discord bot that listens for a specific word, and responds. Code included."
 ---
 
 If you spend any time on Discord, you know that bots are everywhere. But how does a bot get created, and where does it get hosted?

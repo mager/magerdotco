@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: Hello World
 pubDate: "2020-02-22"
 tags: ["Announcements"]
-summary: "mager.co is back!"
+description: "mager.co is back!"
 ---
 
 mager.co is back!

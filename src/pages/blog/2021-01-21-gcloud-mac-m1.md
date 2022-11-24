@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: How to install gcloud on an M1 Mac
 pubDate: "2021-01-21"
-summary: "If you're having trouble installing the gcloud CLI on your Mac m1, this should help."
+description: "If you're having trouble installing the gcloud CLI on your Mac m1, this should help."
 tags: ["Tutorial", "M1", "Google Cloud"]
 ---
 

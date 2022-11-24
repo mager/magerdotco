@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Rigatoni alla Vodka"
 pubDate: "2020-12-31"
-summary: One of my go-to "last meals" that you need to try before you die.
+description: One of my go-to "last meals" that you need to try before you die.
 tags: ["Recipe"]
 ---
 
