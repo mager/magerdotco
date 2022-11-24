@@ -4,7 +4,7 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 body {
-	font-family: Verdana, sans-serif;
+	font-family: "Rubik", Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -15,6 +15,7 @@ body {
 	line-height: 1.5;
 	color: #444;
 }
+
 h1,
 h2,
 h3,
@@ -25,43 +26,82 @@ strong,
 b {
 	color: #222;
 }
+
 a {
 	color: #3273dc;
 }
+
 nav a {
 	margin-right: 10px;
 }
+
 textarea {
 	width: 100%;
 	font-size: 16px;
 }
+
 input {
 	font-size: 16px;
 }
+
 content {
 	line-height: 1.6;
 }
+
 table {
 	width: 100%;
 }
+
 img {
 	max-width: 100%;
 	height: auto;
 }
+
 code {
 	padding: 2px 5px;
 	background-color: #f2f2f2;
 }
+
 pre {
 	padding: 1rem;
 }
-pre > code {
+
+pre>code {
 	all: unset;
 }
+
 blockquote {
 	border: 1px solid #999;
 	color: #222;
 	padding: 2px 0px 2px 20px;
 	margin: 0px;
 	font-style: italic;
+}
+
+p,
+ul,
+li {
+	font-family: "Rubik", Verdana, sans-serif;
+}
+
+h2 {
+	font-family: "Sacramento", cursive;
+	margin: 2rem 0 3rem;
+}
+
+h2 {
+	font-size: 4rem;
+	line-height: 1rem;
+}
+
+h3,
+h4,
+nav,
+nav a {
+	font-family: "Rubik", Verdana, sans-serif;
+	font-weight: 500;
+}
+
+h3 {
+	font-size: 1.5rem;
 }
