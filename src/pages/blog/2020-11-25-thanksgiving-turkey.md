@@ -6,8 +6,10 @@ description: "I stole this recipe from the November 2019 Bon Appetit. This exper
 tags: ["Recipe"]
 ---
 
-Prep time: 1 hour
-Cook time: 3 hours
+<em>Updated: November 25, 2022</em>
+
+<p>Prep time: 1 hour</p>
+<p>Cook time: 4 hours</p>
 
 I stole this recipe from the <a href="https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey" target="_blank">November 2019 issue of Bon Appetit</a>. This expertly spiced & glazed turkey is cut into pieces, dry-rubbed overnight, and glazed continuously during its slow cook. It's still the best turkey I've ever had.
 
@@ -17,8 +19,10 @@ I stole this recipe from the <a href="https://www.bonappetit.com/recipe/expertly
 
 <p><em>The Bird</em></p>
 <ul>
-    <li itemProp="recipeIngredient">12-14 lb free range turkey</li>
+    <li itemProp="recipeIngredient">16-18 lb free range turkey</li>
 </ul>
+
+<p>If you get a smaller turkey, it will cook faster.</p>
 
 <p><em>Dry Rub</em></p>
 <ul>
@@ -60,17 +64,17 @@ I end up not using all of the spice mix the day before, but when I pull the turk
 
 ![Glaze](/images/blog/2020-11-25-thanksgiving-turkey/glaze.jpg)
 
-<p itemProp="recipeInstruction">Rub the turkey pieces with olive oil and put it in the oven for 15 minutes, then rotate it and do another 15 minutes. Now turn the oven down to 265°, take the turkey out and put a layer of glaze on it. This may seem like a weird temperature but trust me.</p>
+<p itemProp="recipeInstruction">Rub the turkey pieces with olive oil and put it in the oven for 15 minutes, then rotate it and do another 15 minutes. Now turn the oven down to 250°, take the turkey out and put a layer of glaze on it. This may seem like a weird temperature but trust me.</p>
 
-<p itemProp="recipeInstruction">Set a timer for 20 minutes and repeat the glazing process 5-6 more times. At this point, the wings will probably be done. It's okay to pull them out early and continue baking/glazing the breast & legs 2-3 more times.</p>
+<p itemProp="recipeInstruction">Set a timer for 25 minutes and repeat the glazing process 5-6 more times. At this point, the wings will probably be done. It's okay to pull them out early and continue baking/glazing the breast & legs 2-3 more times.</p>
 
 ![Wings](/images/blog/2020-11-25-thanksgiving-turkey/wings.jpg)
 
 <p itemProp="recipeInstruction">You'll know the breast is done when it reaches 160° and the leg pieces will need to get to 170°.</p>
 
-<em>More photos coming soon!</em>
-
 <p itemProp="recipeInstruction">When it's done, take it out and let it rest for at least 30 minutes. At this point, you can cut it however you want. Don't forget to set aside some dark meat for the dog, and also a small allotment for the turkey tetrazzini that you'll make tomorrow or the next day (recipe coming soon).</p>
+
+![Final turkey](/images/blog/2020-11-25-thanksgiving-turkey/turkey-1.jpg)
 
 Please let me know if you end up making your turkey this way. I need to also mention that <a href="https://www.bonappetit.com/recipe/why-is-it-so-good-gravy" target="_blank">this gravy recipe</a> goes perfectly with the turkey.
 
