@@ -1,4 +1,5 @@
 ---
+import { format, parse } from "date-fns";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -45,11 +46,35 @@ const {
 					)
 				}
 				<h1 class="title">{title}</h1>
-				{pubDate && <time>{pubDate}</time>}
+				{
+					pubDate && (
+						<div>
+							Published:
+							<time>
+								{format(
+									parse(pubDate, "yyyy-M-dd", new Date()),
+									"MMM d, yyy"
+								)}
+							</time>
+						</div>
+					)
+				}
 				{
 					updatedDate && (
 						<div>
-							Last updated on <time>{updatedDate}</time>
+							<em>
+								Updated:{" "}
+								<time>
+									{format(
+										parse(
+											updatedDate,
+											"yyyy-M-dd",
+											new Date()
+										),
+										"MMM d, yyy"
+									)}
+								</time>
+							</em>
 						</div>
 					)
 				}

@@ -80,7 +80,8 @@ blockquote {
 
 p,
 ul,
-li {
+li,
+time {
 	font-family: "Rubik", Verdana, sans-serif;
 }
 

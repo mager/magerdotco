@@ -18,6 +18,7 @@
     "@fontsource/rubik-mono-one": "^4.5.10",
     "@fontsource/sacramento": "^4.5.9",
     "@fontsource/yellowtail": "^4.5.8",
-    "astro": "^1.6.10"
+    "astro": "^1.6.10",
+    "date-fns": "^2.29.3"
   }
 }
