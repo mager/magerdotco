@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "DRAFT Recipe: Thanksgiving Stuffing"
+title: "Recipe: Thanksgiving Stuffing"
 pubDate: "2022-11-22"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
@@ -20,7 +20,7 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 ### Ingredients
 
 * 1 cup (2 sticks) unsalted butter, plus more
-* 1 loaf sourdough bread, sliced 1 inch thick, torn into ½ inch pieces
+* 1 loaf sourdough bread (1 ½lb), sliced 1 inch thick, torn into ½ inch pieces
 * 1 pound breakfast sausage (or 1/2 cup green lentils)
 * 1 large onion, finely chopped
 * 1 fennel bulb, finely chopped
