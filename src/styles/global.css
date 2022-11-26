@@ -78,6 +78,12 @@ blockquote {
 	font-style: italic;
 }
 
+hr {
+	border-top: 1px solid #ccc;
+	height: 0px;
+	border: none;
+}
+
 p,
 ul,
 li,
@@ -92,6 +98,13 @@ h1 {
 h2 {
 	font-family: "Sacramento", cursive;
 	margin: 2rem 0 3rem;
+}
+
+article h2 {
+	font-family: Rubik;
+	font-size: 2rem;
+	line-height: 28px;
+	margin-bottom: 8px;
 }
 
 h2 {
@@ -109,4 +122,28 @@ nav a {
 
 h3 {
 	font-size: 1.5rem;
+}
+
+.date {
+	font-style: italic;
+}
+
+
+/* Recipe */
+.recipe-meta {
+	border: 1px solid #cccccc;
+	border-radius: 8px;
+	padding: 4px 0;
+	display: inline;
+}
+
+.recipe-meta li {
+	list-style: none;
+	padding: 0 12px;
+	margin: 0;
+	display: inline;
+}
+
+.recipe-meta li:first-child {
+	border-left: none;
 }

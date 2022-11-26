@@ -29,10 +29,6 @@ const {
 				margin: 0.25em 0;
 				line-height: 3.5rem;
 			}
-			hr {
-				border-top: 1px solid #ddd;
-				margin: 1rem 0;
-			}
 		</style>
 	</head>
 
@@ -48,7 +44,7 @@ const {
 				<h1 class="title">{title}</h1>
 				{
 					pubDate && (
-						<div>
+						<div class="date">
 							Published:
 							<time>
 								{format(
