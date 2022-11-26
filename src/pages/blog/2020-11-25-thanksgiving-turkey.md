@@ -8,8 +8,10 @@ tags: ["Recipe"]
 heroImage: "/images/blog/2020-11-25-thanksgiving-turkey/turkey-hero.jpg"
 ---
 
-<p>Prep time: 1 hour</p>
-<p>Cook time: 4 hours</p>
+<ul class="recipe-meta">
+    <li>Prep time: 1 hour</li>
+    <li>Cook time: 4 hours</li>
+</ul>
 
 I stole this recipe from the <a href="https://www.bonappetit.com/recipe/expertly-spiced-and-glazed-roast-turkey" target="_blank">November 2019 issue of Bon Appetit</a>. This expertly spiced & glazed turkey is cut into pieces, dry-rubbed overnight, and glazed continuously during its slow cook. It's still the best turkey I've ever had.
 
