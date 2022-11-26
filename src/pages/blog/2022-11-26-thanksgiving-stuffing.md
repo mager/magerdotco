@@ -44,6 +44,8 @@ Preheat the oven to 300º and then tear up the bread into bite-sized pieces. Dry
 
 Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, fennel, leeks, garlic) and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs for a minute or two then point the carmelized mix into the bread bowl.
 
+![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-2.jpg)
+
 Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that in the bowl, then mix it all together.
 
 Butter a 9x13-inch baking pan then pour in the bread mixture, evening it out. Pour some more stock on top (1-2 cups); don't worry, the bread will soak it up and the oven will dry it out. Cover with aluminum foil.
