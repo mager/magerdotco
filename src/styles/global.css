@@ -27,8 +27,9 @@ b {
 	color: #222;
 }
 
-a {
-	color: #53d186;
+a,
+a:visited {
+	color: #b060f6;
 }
 
 nav a {
@@ -92,7 +93,8 @@ time {
 }
 
 h1 {
-	font-family: Yellowtail;
+	font-family: Rubik;
+	font-weight: 700;
 }
 
 h2 {
