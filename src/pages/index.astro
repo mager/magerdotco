@@ -3,6 +3,12 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+// Use Astro.glob() to fetch all posts, and then sort them by date.
+const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
+	(a, b) =>
+		new Date(b.frontmatter.pubDate).valueOf() -
+		new Date(a.frontmatter.pubDate).valueOf()
+);
 ---
 
 <!DOCTYPE html>
@@ -13,11 +19,33 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
-			<h3>Welcome to my internet home.</h3>
-			<p>
-				There is only a <a href="/blog">blog</a> right now, but I'll add
-				more fun stuff here soon.
-			</p>
+			<div class="intro">
+				<h3>Welcome to my internet home.</h3>
+				<p>
+					There is only a <a href="/blog">blog</a> right now, but I'll
+					add more fun stuff here soon.
+				</p>
+			</div>
+			<div class="hero">
+				<h5>Featured Post</h5>
+				<h3>
+					<a href={posts[0].url}>{posts[0].frontmatter.title}</a>
+				</h3>
+				<p class="updated">
+					Updated <time datetime={posts[0].frontmatter.pubDate}>
+						{
+							new Date(
+								posts[0].frontmatter.updatedDate
+							).toLocaleDateString("en-us", {
+								year: "numeric",
+								month: "short",
+								day: "numeric",
+							})
+						}
+					</time>
+				</p>
+				<p>{posts[0].frontmatter.description}</p>
+			</div>
 		</main>
 		<Footer />
 	</body>

@@ -130,6 +130,37 @@ h3 {
 	font-style: italic;
 }
 
+.updated {
+	font-style: italic;
+	margin: 0;
+	font-size: 0.8rem;
+}
+
+/* Intro */
+.intro {
+	padding: 0 0 1rem;
+	margin: 0 0 2rem;
+	border-bottom: 1px solid #ddd;
+}
+
+/* Hero */
+.hero {
+	background-color: #f2f2f2;
+	padding: 1rem;
+	border-radius: 8px;
+}
+
+.hero h3 {
+	font-size: 1.5rem;
+	margin: 0;
+}
+
+.hero h5 {
+	font-style: italic;
+	font-weight: normal;
+	margin: 0 0 1rem;
+}
+
 
 /* Recipe */
 .recipe-meta {
