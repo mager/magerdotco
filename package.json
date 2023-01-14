@@ -15,12 +15,14 @@
     "@astrojs/partytown": "^1.0.2",
     "@astrojs/rss": "^1.0.3",
     "@astrojs/sitemap": "^1.0.0",
+    "@astrojs/vercel": "^2.4.0",
     "@fontsource/rubik": "^4.5.11",
     "@fontsource/rubik-mono-one": "^4.5.10",
     "@fontsource/sacramento": "^4.5.9",
     "@fontsource/yellowtail": "^4.5.8",
     "astro": "^1.6.10",
     "astro-analytics": "^2.5.0",
-    "date-fns": "^2.29.3"
+    "date-fns": "^2.29.3",
+    "vercel": "^28.12.4"
   }
 }
