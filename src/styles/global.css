@@ -95,6 +95,8 @@ time {
 h1 {
 	font-family: Rubik;
 	font-weight: 700;
+	font-size: 4rem;
+	margin: 0 0 1rem;
 }
 
 h2 {

@@ -5,50 +5,50 @@ import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 // Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
-	(a, b) =>
-		new Date(b.frontmatter.pubDate).valueOf() -
-		new Date(a.frontmatter.pubDate).valueOf()
+  (a, b) =>
+    new Date(b.frontmatter.pubDate).valueOf() -
+    new Date(a.frontmatter.pubDate).valueOf()
 );
-console.log(Astro.request)
-
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header title={SITE_TITLE} />
-		<main>
-			<div class="intro">
-				<h3>Welcome to my internet home.</h3>
-				<p>
-					There is only a <a href="/blog">blog</a> right now, but I'll
-					add more fun stuff here soon.
-				</p>
-			</div>
-			<div class="hero">
-				<h5>Featured Post</h5>
-				<h3>
-					<a href={posts[0].url}>{posts[0].frontmatter.title}</a>
-				</h3>
-				<p class="updated">
-					Updated <time datetime={posts[0].frontmatter.pubDate}>
-						{
-							new Date(
-								posts[0].frontmatter.updatedDate
-							).toLocaleDateString("en-us", {
-								year: "numeric",
-								month: "short",
-								day: "numeric",
-							})
-						}
-					</time>
-				</p>
-				<p>{posts[0].frontmatter.description}</p>
-			</div>
-		</main>
-		<Footer />
-	</body>
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header title={SITE_TITLE} />
+    <main>
+      <div class="intro">
+        <h3>Welcome to my internet home.</h3>
+        <p>
+          <strong>April 2023 Update:</strong> I'm working on building out the <a
+            href="/learn">Learn</a
+          > page with a few tutorials.
+        </p>
+      </div>
+      <div class="hero">
+        <h5>Featured Post</h5>
+        <h3>
+          <a href={posts[0].url}>{posts[0].frontmatter.title}</a>
+        </h3>
+        <p class="updated">
+          Updated <time datetime={posts[0].frontmatter.pubDate}>
+            {
+              new Date(posts[0].frontmatter.updatedDate).toLocaleDateString(
+                "en-us",
+                {
+                  year: "numeric",
+                  month: "short",
+                  day: "numeric",
+                }
+              )
+            }
+          </time>
+        </p>
+        <p>{posts[0].frontmatter.description}</p>
+      </div>
+    </main>
+    <Footer />
+  </body>
 </html>
