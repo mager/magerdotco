@@ -13,7 +13,8 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #444;
+	color: #666;
+	font-kerning: none;
 }
 
 h1,
@@ -109,7 +110,7 @@ article h2 {
 }
 
 h2 {
-	font-size: 4rem;
+	font-size: 3.5rem;
 	line-height: 1rem;
 }
 
