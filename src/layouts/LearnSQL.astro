@@ -1,0 +1,68 @@
+---
+import { format, parse } from "date-fns";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+export interface Props {
+  content: {
+    layout: "../../layouts/LearnSQL.astro";
+    title: string;
+    description: string;
+    prevLink: string;
+    prevTitle: string;
+    nextLink: string;
+    nextTitle: string;
+  };
+}
+
+const {
+  content: { title, description, prevTitle, prevLink, nextTitle, nextLink },
+} = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+    <style>
+      h4 a,
+      h4 a:visited {
+        color: black;
+        text-decoration: none;
+      }
+      .slot {
+        padding: 0 0 1rem 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <section>
+        <h4>
+          <a href="/learn/sql-with-public-data">Learn SQL With Public Data</a>
+        </h4>
+        <h1>{title}</h1>
+        <div class="slot"><slot /></div>
+        <p class="breadcrumb">
+          {
+            prevLink && prevTitle && (
+              <a href={`/learn/sql-with-public-data/${prevLink}`}>
+                👈 {prevTitle}
+              </a>
+            )
+          }
+          {
+            nextLink && nextTitle && (
+              <a href={`/learn/sql-with-public-data/${nextLink}`}>
+                {nextTitle} 👉
+              </a>
+            )
+          }
+        </p>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>

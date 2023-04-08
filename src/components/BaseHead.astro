@@ -5,13 +5,14 @@ import "../styles/global.css";
 
 import "@fontsource/rubik";
 import "@fontsource/rubik/500.css";
-import "@fontsource/sacramento";
+import "@fontsource/great-vibes";
+import "@fontsource/poppins";
 import "@fontsource/yellowtail";
 
 export interface Props {
-	title: string;
-	description: string;
-	image?: string;
+  title: string;
+  description: string;
+  image?: string;
 }
 
 const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
@@ -41,3 +42,16 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+<script
+  type="text/partytown"
+  src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
+></script>
+<script type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+  gtag("config", "GA_MEASUREMENT_ID");
+</script>

@@ -4,7 +4,7 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 body {
-	font-family: "Rubik", Verdana, sans-serif;
+	font-family: "Poppins", Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -29,11 +29,7 @@ b {
 
 a,
 a:visited {
-	color: #b060f6;
-}
-
-nav a {
-	margin-right: 10px;
+	color: #00b0f0;
 }
 
 textarea {
@@ -59,8 +55,9 @@ img {
 }
 
 code {
-	padding: 2px 5px;
-	background-color: #f2f2f2;
+	padding: 4px 6px;
+	background-color: #e5e5e5;
+	font-size: 125%;
 }
 
 pre {
@@ -89,23 +86,23 @@ p,
 ul,
 li,
 time {
-	font-family: "Rubik", Verdana, sans-serif;
+	font-family: "Poppins", Verdana, sans-serif;
 }
 
 h1 {
 	font-family: Rubik;
 	font-weight: 700;
 	font-size: 4rem;
-	margin: 0 0 1rem;
+	margin: 0 0 1.5rem;
+	line-height: 72px;
 }
 
 h2 {
-	font-family: "Sacramento", cursive;
-	margin: 2rem 0 3rem;
+	font-family: "Great Vibes", cursive;
 }
 
 article h2 {
-	font-family: Rubik;
+	font-family: Poppins;
 	font-size: 2rem;
 	line-height: 28px;
 	margin-bottom: 8px;
@@ -120,12 +117,18 @@ h3,
 h4,
 nav,
 nav a {
-	font-family: "Rubik", Verdana, sans-serif;
+	font-family: "Poppins", Verdana, sans-serif;
 	font-weight: 500;
 }
 
 h3 {
 	font-size: 1.5rem;
+}
+
+h4 {
+	margin: 0 0 12px;
+	font-size: 1.5rem;
+	font-style: italic;
 }
 
 .date {
@@ -136,6 +139,10 @@ h3 {
 	font-style: italic;
 	margin: 0;
 	font-size: 0.8rem;
+}
+
+.hide {
+	display: none;
 }
 
 /* Intro */
@@ -181,4 +188,17 @@ h3 {
 
 .recipe-meta li:first-child {
 	border-left: none;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 1rem;
+	margin-top: 1rem;
+}
+
+/* Learn */
+.breadcrumb {
+	border-top: 1px solid #ccc;
+	padding: 1rem 0;
 }

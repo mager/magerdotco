@@ -12,18 +12,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../../config";
   <head>
     <BaseHead title={`${SITE_TITLE} - Learn`} description={SITE_DESCRIPTION} />
     <style></style>
-    <script
-      type="text/partytown"
-      src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
-    ></script>
-    <script type="text/partytown">
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "GA_MEASUREMENT_ID");
-    </script>
   </head>
 
   <body>
@@ -40,7 +28,18 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../../config";
           </p>
         </div>
         <div class="learn-header">
-          <p>Coming soon!</p>
+          <div>
+            <h3>
+              <a href="/learn/sql-with-public-data"
+                >Learn SQL with Public Data
+              </a>
+            </h3>
+            <div class="description">
+              You've always wanted to learn SQL, but you don't know where to
+              start. The following lessons will teach you the basics of SQL
+              using public data.
+            </div>
+          </div>
         </div>
       </section>
     </main>

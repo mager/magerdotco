@@ -2,10 +2,10 @@
 layout: "../layouts/BlogPost.astro"
 title: "About Me"
 description: "Mager is an engineering manager working at Uber, building delivery APIs."
-updatedpubDate: "November 24 2022"
+updatedpubDate: "April, 8 2023"
 ---
 
-![](/public/images/mager-hot-doug.jpg)
+![](/images/mager-hot-doug.jpg)
 
 Hey there, I'm Mager! I'm an engineering manager at Uber, where I spend my weekdays building delivery APIs. On the weekends, you'll usually find me writing some code, exploring new restaurants with my wife and our dog, and enjoying a cold beer (I love keeping track of my favorite brews on [Untappd](https://untappd.com/user/mager)).
 

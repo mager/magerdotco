@@ -1,0 +1,71 @@
+---
+import BaseHead from "../../../components/BaseHead.astro";
+import Header from "../../../components/Header.astro";
+import Footer from "../../../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../../config";
+
+// Use Astro.glob() to fetch all posts, and then sort them by date.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`${SITE_TITLE} - Learn SQL with Baseball`}
+      description={SITE_DESCRIPTION}
+    />
+    <style>
+      h3 {
+        line-height: 28px;
+        margin: 0 0 12px;
+      }
+      .description {
+        font-size: 0.9rem;
+        color: #666;
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <div>
+        <div class="intro">
+          <h1>Learn SQL with public data</h1>
+          <p>
+            You've always wanted to learn SQL, but you don't know where to
+            start. The following lessons will teach you the basics of SQL using
+            public data.
+          </p>
+        </div>
+        <div class="grid">
+          <div>
+            <h3>
+              <a href="/learn/sql-with-public-data/01-getting-started"
+                >Getting Started: Setup Your Environment</a
+              >
+            </h3>
+            <div class="description">
+              Start by setting up your environment, and getting familiar with
+              the database tables we'll explore.
+            </div>
+          </div>
+          <div>
+            <h3>Your First Queries: College Mascots</h3>
+            <div class="description">
+              We'll explore the SELECT command by looking at college mascots.
+            </div>
+          </div>
+          <div>
+            <h3>Grouping and Filtering: Google Trends</h3>
+            <div class="description">
+              Your first look at grouping data and filtering results, with data
+              from the 2016 MLB season.
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
