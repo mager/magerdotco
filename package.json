@@ -20,9 +20,9 @@
     "@fontsource/poppins": "^4.5.10",
     "@fontsource/rubik": "^4.5.11",
     "@fontsource/rubik-mono-one": "^4.5.10",
-    "@fontsource/yellowtail": "^4.5.8",
     "astro": "^1.6.10",
     "astro-analytics": "^2.5.0",
+    "astro-google-fonts-optimizer": "^0.2.2",
     "date-fns": "^2.29.3",
     "vercel": "^28.12.4"
   }

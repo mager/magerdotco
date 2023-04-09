@@ -31,6 +31,11 @@ b {
 a,
 a:visited {
 	color: #00b0f0;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 textarea {
@@ -100,6 +105,8 @@ h1 {
 
 h2 {
 	font-family: "Great Vibes", cursive;
+	font-size: 3rem;
+	line-height: 1rem;
 }
 
 article h2 {
@@ -107,11 +114,6 @@ article h2 {
 	font-size: 2rem;
 	line-height: 28px;
 	margin-bottom: 8px;
-}
-
-h2 {
-	font-size: 3.5rem;
-	line-height: 1rem;
 }
 
 h3,
@@ -202,4 +204,35 @@ h4 {
 .breadcrumb {
 	border-top: 1px solid #ccc;
 	padding: 1rem 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.breadcrumb .prev {
+	margin-right: auto;
+}
+
+.breadcrumb .next {
+	margin-left: auto;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
+	h1 {
+		font-size: 3rem;
+		line-height: 3rem;
+	}
+
+	h2 {
+		margin: 24px 0 48px;
+	}
+
+	.grid {
+		grid-template-columns: 1fr;
+	}
+
+	.breadcrumb {
+		flex-direction: column;
+		align-items: flex-start;
+	}
 }

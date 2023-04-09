@@ -1,4 +1,5 @@
 ---
+import { GoogleFontsOptimizer } from "astro-google-fonts-optimizer";
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
 import "../styles/global.css";
@@ -6,8 +7,8 @@ import "../styles/global.css";
 import "@fontsource/rubik";
 import "@fontsource/rubik/500.css";
 import "@fontsource/great-vibes";
+import "@fontsource/poppins/100.css";
 import "@fontsource/poppins";
-import "@fontsource/yellowtail";
 
 export interface Props {
   title: string;
@@ -20,10 +21,12 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="viewport" content="width=device-width" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <meta name="generator" content={Astro.generator} />
-
+<GoogleFontsOptimizer
+  url="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&family=GreatVibes&family=Poppins:wght@100;400&display=swap"
+/>
 <!-- Primary Meta Tags -->
 <title>{title}</title>
 <meta name="title" content={title} />

@@ -454,11 +454,6 @@
   resolved "https://registry.npmjs.org/@fontsource/rubik/-/rubik-4.5.11.tgz"
   integrity sha512-m0/4GKOqJjF9cB4wuLgDhRdRVt35WzqI5n7SgddRjRD+yzsO0eEq/ak0ezgfbR3+f91ydDCek1+RuOVB8dNYwg==
 
-"@fontsource/yellowtail@^4.5.8":
-  version "4.5.8"
-  resolved "https://registry.npmjs.org/@fontsource/yellowtail/-/yellowtail-4.5.8.tgz"
-  integrity sha512-tDMIpdUVfvi3tqX0ceJ1BWxfNL6a1ZimU5dPhnrkbJXKoUwQnIOMv9h3Wg0vbImgIy4m0S33NQP3bTY3/ZZtgg==
-
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz"
@@ -1076,6 +1071,11 @@ astro-analytics@^2.5.0:
   version "2.5.0"
   resolved "https://registry.npmjs.org/astro-analytics/-/astro-analytics-2.5.0.tgz"
   integrity sha512-osywOVkeoX/Ia2vX1nUVy8PSU+VuvhHysHuE+WkFn1iQ5XismB0E/RjuxJH1JoWObKVasVLjS88nEu8SIEYCmw==
+
+astro-google-fonts-optimizer@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/astro-google-fonts-optimizer/-/astro-google-fonts-optimizer-0.2.2.tgz#93eff2a5c17713064675f70bce4c6f2fc4c2c50f"
+  integrity sha512-YQxp/ExF3NzUomAGuu1VKecO7/ETRnhnE50gqwAqfpbGPZFj4MYa4XxK1ukBg3R63QmKuE5uurOiKmXiLzttuw==
 
 astro@^1.6.10:
   version "1.6.11"

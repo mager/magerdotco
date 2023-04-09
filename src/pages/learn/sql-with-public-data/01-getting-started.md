@@ -1,14 +1,14 @@
 ---
-layout: "../../../layouts/LearnSQL.astro"
+layout: "../../../layouts/Learn.astro"
 prevLink: ""
 prevTitle: ""
-nextLink: "/02-your-first-queries"
+nextLink: "02-your-first-queries"
 nextTitle: "Your First Queries: College Mascots"
 title: "Getting Started"
 description: "Start by setting up your environment, and getting familiar with the database tables we'll explore."
 ---
 
-Welcome to the world of SQL! Are you ready to dive into the exciting world of relational databases? Whether you're a seasoned coder or a beginner, this class is designed to give you the skills and knowledge you need to write effective SQL queries.
+Welcome to the world of SQL! Whether you're a seasoned coder or a beginner, this class is designed to give you the skills and knowledge you need to write effective SQL queries.
 
 If you're new to coding, don't worry - we'll start with the basics and guide you through the fundamentals of SQL. And if you're already familiar with other programming languages, you'll find that SQL is a powerful tool that can help you organize and manipulate data more efficiently than ever before.
 
@@ -36,3 +36,28 @@ This magic piece of code does a few things:
 - This string `"[query]\n  --use_legacy_sql=false"` is a defining a single `query` rule to not use legacy SQL
 - `>>` is a bash operator for appending content to a file
 - `~/.bigqueryrc` is the location of the BigQuery config file
+
+If you run `cat ~/.bigqueryrc` you should see the following output:
+
+```sh
+[query]
+  --use_legacy_sql=false
+```
+
+Now you should be able to run the `bq` command. Try running `bq query 'SELECT current_date()'`. If it worked, you should see something like:
+
+```sh
++------------+
+|    f0_     |
++------------+
+| 2023-04-09 |
++------------+
+```
+
+You can learn more about the syntax of the `bq` command [here](https://cloud.google.com/bigquery/docs/reference/bq-cli-reference).
+
+As mentioned earlier, we can also run these queries in the BigQuery UI as well:
+
+![BigQuery UI](/images/learn/sql-with-public-data/01-first-query.png)
+
+In the next section, we'll start querying actual tables.

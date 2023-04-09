@@ -6,7 +6,7 @@ import Footer from "../components/Footer.astro";
 
 export interface Props {
   content: {
-    layout: "../../layouts/LearnSQL.astro";
+    layout: "../../layouts/Learn.astro";
     title: string;
     description: string;
     prevLink: string;
@@ -44,18 +44,18 @@ const {
           <a href="/learn/sql-with-public-data">Learn SQL With Public Data</a>
         </h4>
         <h1>{title}</h1>
-        <div class="slot"><slot /></div>
+        <article><slot /></article>
         <p class="breadcrumb">
           {
             prevLink && prevTitle && (
-              <a href={`/learn/sql-with-public-data/${prevLink}`}>
+              <a class="prev" href={`/learn/sql-with-public-data/${prevLink}`}>
                 👈 {prevTitle}
               </a>
             )
           }
           {
             nextLink && nextTitle && (
-              <a href={`/learn/sql-with-public-data/${nextLink}`}>
+              <a class="next" href={`/learn/sql-with-public-data/${nextLink}`}>
                 {nextTitle} 👉
               </a>
             )
