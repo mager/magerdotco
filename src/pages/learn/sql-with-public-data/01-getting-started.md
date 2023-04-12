@@ -16,9 +16,9 @@ By the end of this learning journey, you'll be able to write SQL queries with co
 
 ## Prerequisites
 
-For this guide, we're going to use BigQuery which is part of Google Cloud. BigQuery has a [ton of public datasets](https://cloud.google.com/bigquery/public-data) that are free to query for the first 1 TB of data per month, and we won't nearly come close to that. Sign up for Google Cloud and install the [bq command line tool](https://cloud.google.com/bigquery/docs/bq-command-line-tool). BigQuery public datasets are free to query for the first 1 TB of data per month). If you don't want to use the `bq` tool, you can run any of these queries in the BigQuery web UI.
+For this guide, we're going to use BigQuery which is part of Google Cloud. BigQuery has a [ton of public datasets](https://cloud.google.com/bigquery/public-data) that are free to query for the first 1 TB of data per month, and we won't nearly come close to that. Sign up for Google Cloud and install the [bq command line tool](https://cloud.google.com/bigquery/docs/bq-command-line-tool).
 
-I like the `bq` tool for quickly running queries to explore data. I usually tweak queries there, and then copy it over to the BigQuery UI when I want to start visualizing data and doing more data science-y things.
+If you don't want to use the `bq` tool, you can run any of these queries in the BigQuery web UI. I like the `bq` tool for quickly running queries to explore data. I usually tweak queries there, and then copy it over to the BigQuery UI when I want to start visualizing data and doing more data science-y things.
 
 _If you have never used the command line, I recommend checking out Chapter 1 of [Conquering the Command Line](https://conqueringthecommandline.com/book)_
 
