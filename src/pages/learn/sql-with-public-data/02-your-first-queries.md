@@ -22,8 +22,7 @@ The basic syntax of the SELECT command is as follows:
 
 ```sql
 SELECT column1, column2
-FROM table_name
-WHERE condition;
+FROM table_name;
 ```
 
 Here, `column1` and `column2` refer to the specific columns you want to retrieve data from, and `table_name` is the name of the table containing that data.
@@ -70,7 +69,7 @@ We got some data back!
 
 ![Data](/images/learn/sql-with-public-data/02-first-query.png)
 
-This is hard to read; there are a bunch of `NULL` columns, so let's try only selecting few columns. (From here on out, I'll just be using the raw SQL. You can choose to use the `bq` CLI or the BigQuery web UI):
+This is hard to read; there are a bunch of `NULL` columns, so let's try only selecting few columns. (From here on out, I'll just be using the raw SQL. You can choose whether you want to use the `bq` CLI or the BigQuery web UI):
 
 ```sql
 SELECT
@@ -84,7 +83,7 @@ FROM
 LIMIT 5
 ```
 
-You will also notice that we limited the result set to 5 with the `LIMIT` command. This always goesd at the end. The output is a bit better now:
+You will also notice that we limited the result set to 5 with the `LIMIT` command. This always goes at the end. The output is a bit better now:
 
 ```
 +---------------+------------------+-----------+-----------------------+--------------+
@@ -98,4 +97,39 @@ You will also notice that we limited the result set to 5 with the `LIMIT` comman
 +---------------+------------------+-----------+-----------------------+--------------+
 ```
 
-TODO
+Another thing we can do is order the results by one of the columns. For example, let's say we want to see the list ordered by the name alphabetically:
+
+```sql
+SELECT
+  market,
+  name,
+  mascot,
+  mascot_name,
+  non_tax_type
+FROM
+  `bigquery-public-data.ncaa_basketball.mascots`
+ORDER BY
+  name
+LIMIT 10
+```
+
+The result is:
+
+```
++--------------------+-----------+--------------------+--------------------+---------------+
+|       market       |   name    |       mascot       |    mascot_name     | non_tax_type  |
++--------------------+-----------+--------------------+--------------------+---------------+
+| Long Beach State   | 49ers     | 49er               | Prospector Pete    | 49ers         |
+| Charlotte          | 49ers     | 49er               | Norm               | 49ers         |
+| Evansville         | Aces      | Riverboat Gambler  | Ace Purple         | Entrepreneurs |
+| Texas A&M          | Aggies    | Dustdevil          | Dusty              | Weather       |
+| New Mexico State   | Aggies    | Cowboy             | Pistol Pete        | Cowboys       |
+| North Carolina A&T | Aggies    | Bulldog            | Aggie and Aggietha | NULL          |
+| UC Davis           | Aggies    | Mustang            | Gunrock            | NULL          |
+| Utah State         | Aggies    | Bull               | Big Blue           | NULL          |
+| UC Irvine          | Anteaters | Anteater           | Peter              | NULL          |
+| Grand Canyon       | Antelopes | Pronghorn Antelope | Thunder            | NULL          |
++--------------------+-----------+--------------------+--------------------+---------------+
+```
+
+What if we wanted to find out all mascots that contain the word "dog", or the most common mascot name? Continue on to the next section to learn about filtering and grouping.
