@@ -30,10 +30,10 @@ Open up your Terminal application (Applications > Utilities) and create a file i
 echo "[query]\n  --use_legacy_sql=false" >> ~/.bigqueryrc
 ```
 
-This magic piece of code does a few things:
+This magic command does a few things:
 
 - The `echo` command is basically just a print statement
-- This string `"[query]\n  --use_legacy_sql=false"` is a defining a single `query` rule to not use legacy SQL
+- This string `"[query]\n  --use_legacy_sql=false"` defines a single `query` rule to not use legacy SQL
 - `>>` is a bash operator for appending content to a file
 - `~/.bigqueryrc` is the location of the BigQuery config file
 
