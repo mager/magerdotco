@@ -28,7 +28,7 @@ I was instructed to visit the Municipo, aka the town hall, which was a bit chall
 
 <Image src="https://lh3.googleusercontent.com/pw/ADCreHdOv5FUKzBWhSI6bY9qLzIblJoyJYsZ8wmYshjEYFJ1w9BBcemE9-Bm-eJxFZ7ujxA3mcZNVswwaQSoPVg3PAZjdUOZyYLn357Qf3MUgxqLESGOaSA34dzWfCOf4hKU_EyVX3vDmlMvf5bDH3qFP1z7=w1186-h1580-s-no?authuser=0" />
 
-Upon our arrival, the Mr. Pizzolanti and his staff extended a warm welcome to my wife and I, offering a plate of snacks along with a refreshing local cocktail infused with fruit juice and vodka.
+Upon our arrival, the Mr. Pizzolanti and his staff extended a warm welcome to my wife and I, offering a plate of snacks along with a refreshing local cocktail infused with fruit juice.
 
 <Image src="https://lh3.googleusercontent.com/pw/ADCreHfkeKutuMwYvB31BS8YYUDfT5BAj9dpC-GkSooZ8OVTWyVOj29I1Ju6t9Y2uwJa0gef0pHYrZvsjzV1nXMG1kGRh3a-qlivwrvi2bxoyd3qiyFBn7cKzaFeomGVacuoCoN9tAyArE0-3UuaV8XTgl3F=w1186-h1580-s-no?authuser=0" />
 
