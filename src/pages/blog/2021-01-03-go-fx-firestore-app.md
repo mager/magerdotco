@@ -765,7 +765,7 @@ curl --header "Content-Type: application/json" \
 
 ```
 
-```http
+```
 HTTP/1.1 400 Bad Request
 Content-Length: 16
 Content-Type: text/plain; charset=utf-8

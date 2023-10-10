@@ -45,6 +45,13 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
             }
           </time>
         </p>
+        {
+          posts[0].frontmatter.heroImage && (
+            <p>
+              <img src={posts[0].frontmatter.heroImage} />
+            </p>
+          )
+        }
         <p>{posts[0].frontmatter.description}</p>
       </div>
     </main>
