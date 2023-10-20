@@ -6,8 +6,10 @@ description: One of my go-to "last meals" that you need to try before you die.
 tags: ["Recipe"]
 ---
 
-Prep time: 20 min
-Cook time: 45 min
+<ul class="recipe-meta">
+    <li>Prep time: 20 min</li>
+    <li>Cook time: 45 min</li>
+</ul>
 
 If I had to choose a last meal, this would be in the top five for sure. It's my go-to dish when I visit family or perfect for a quiet, holiday meal at home.
 

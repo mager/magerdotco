@@ -6,8 +6,10 @@ description: Your new go-to cookie recipe, great for quarantining.
 tags: ["Recipe"]
 ---
 
-Prep time: 10 min
-Cook time: 16-18 min
+<ul class="recipe-meta">
+    <li>Prep time: 10 min</li>
+    <li>Cook time: 16-18 min</li>
+</ul>
 
 I haven't posted on here as much as I'd like (2020), but I'm excited to share my first recipe. If you have a sweet tooth like me, then you understand the value of a good chocolate chip cookie.
 
