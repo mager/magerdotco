@@ -4,6 +4,7 @@ title: "Recipe: Thanksgiving Stuffing"
 pubDate: "2022-11-22"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
+heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg"
 ---
 
 <ul class="recipe-meta">
@@ -19,22 +20,22 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 
 ### Ingredients
 
-* 1 cup (2 sticks) unsalted butter, plus more
-* 1 loaf sourdough bread (1 ½lb), sliced 1 inch thick, torn into ½ inch pieces
-* 1 pound breakfast sausage (or 1/2 cup green lentils)
-* 1 large onion, finely chopped
-* 1 fennel bulb, finely chopped
-* 4 cloves of garlic, minched
-* 2 stalks of leeks (or celery)
-* Extra-virgin olive oil
-* Diamond Crystal (or other Kosher) salt
-* Ground black pepper
-* ½ cup dry white wine
-* ¼ cup finely chopped parsley
-* 1 tablespoon finely chopped sage
-* 1 tablespoon finely chopped thyme
-* 3 eggs
-* 4 cups chicken stock (or veggie stock)
+- 1 cup (2 sticks) unsalted butter, plus more
+- 1 loaf sourdough bread (1 ½lb), sliced 1 inch thick, torn into ½ inch pieces
+- 1 pound breakfast sausage (or 1/2 cup green lentils)
+- 1 large onion, finely chopped
+- 1 fennel bulb, finely chopped
+- 4 cloves of garlic, minched
+- 2 stalks of leeks (or celery)
+- Extra-virgin olive oil
+- Diamond Crystal (or other Kosher) salt
+- Ground black pepper
+- ½ cup dry white wine
+- ¼ cup finely chopped parsley
+- 1 tablespoon finely chopped sage
+- 1 tablespoon finely chopped thyme
+- 3 eggs
+- 4 cups chicken stock (or veggie stock)
 
 ### Instructions
 
