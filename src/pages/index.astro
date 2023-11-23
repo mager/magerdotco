@@ -9,6 +9,12 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
     new Date(b.frontmatter.pubDate).valueOf() -
     new Date(a.frontmatter.pubDate).valueOf()
 );
+const featuredPost = posts.find(
+  (post) => post.frontmatter.title === "Recipe: Thanksgiving Stuffing"
+);
+if (!featuredPost) {
+  throw new Error("Could not find featured post");
+}
 ---
 
 <!DOCTYPE html>
@@ -29,12 +35,12 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
       <div class="hero">
         <h5>Featured Post</h5>
         <h3>
-          <a href={posts[0].url}>{posts[0].frontmatter.title}</a>
+          <a href={featuredPost.url}>{featuredPost.frontmatter.title}</a>
         </h3>
         <p class="updated">
-          Updated <time datetime={posts[0].frontmatter.pubDate}>
+          Updated <time datetime={featuredPost.frontmatter.pubDate}>
             {
-              new Date(posts[0].frontmatter.updatedDate).toLocaleDateString(
+              new Date(featuredPost.frontmatter.updatedDate).toLocaleDateString(
                 "en-us",
                 {
                   year: "numeric",
@@ -46,13 +52,13 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
           </time>
         </p>
         {
-          posts[0].frontmatter.heroImage && (
+          featuredPost.frontmatter.heroImage && (
             <p>
-              <img src={posts[0].frontmatter.heroImage} />
+              <img src={featuredPost.frontmatter.heroImage} />
             </p>
           )
         }
-        <p>{posts[0].frontmatter.description}</p>
+        <p>{featuredPost.frontmatter.description}</p>
       </div>
     </main>
     <Footer />
