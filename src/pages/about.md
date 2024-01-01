@@ -5,9 +5,9 @@ description: "Mager is an engineering manager working at Uber, building delivery
 updatedpubDate: "April, 8 2023"
 ---
 
-![](/images/mager-hot-doug.jpg)
+![](/images/mager.png)
 
-Hey there, I'm Mager! I'm an engineering manager at Uber, where I spend my weekdays building delivery APIs. On the weekends, you'll usually find me writing some code, exploring new restaurants with my wife and our dog, and enjoying a cold beer (I love keeping track of my favorite brews on [Untappd](https://untappd.com/user/mager)).
+Hey there, I'm Mager! I'm a software engineer at Uber, where I spend my weekdays building delivery APIs. On the weekends, you'll usually find me writing some code, exploring new restaurants with my wife and our dog, and enjoying a cold beer (I love keeping track of my favorite brews on [Untappd](https://untappd.com/user/mager)).
 
 I'm also a proud Chicagoan and love to explore the vibrant neighborhoods and hidden gems of this amazing city.
 
