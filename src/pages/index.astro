@@ -9,9 +9,8 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
     new Date(b.frontmatter.pubDate).valueOf() -
     new Date(a.frontmatter.pubDate).valueOf()
 );
-const featuredPost = posts.find(
-  (post) => post.frontmatter.title === "Recipe: Thanksgiving Stuffing"
-);
+
+const featuredPost = posts[0];
 if (!featuredPost) {
   throw new Error("Could not find featured post");
 }
@@ -27,9 +26,11 @@ if (!featuredPost) {
     <main>
       <div class="intro">
         <p>
-          <strong>Sept 2023 Update:</strong> I took a break from updating the <a
+          <strong>Feb 2024 Update:</strong> I took a break from updating the <a
             href="/learn">Learn</a
-          > page with a few tutorials. I am playing around with QGIS and custom map-making.
+          > page with a few tutorials. I am currently building <a
+            href="https://geotory.com">Geotory</a
+          > so updates here will be slower.
         </p>
       </div>
       <div class="hero">

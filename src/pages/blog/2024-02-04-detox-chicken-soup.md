@@ -3,8 +3,8 @@ layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Detox Chicken Soup"
 pubDate: "2024-02-04"
 description: A delicious, healthy soup that will reset your system.
-# heroImage: "/images/blog/2023-10-20-zuppa-toscana/final.jpg"
 tags: ["Recipe"]
+heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
 ---
 
 <ul class="recipe-meta">
@@ -22,16 +22,18 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 <ul>
     <li itemProp="recipeIngredient">2 tablespoons olive or avocado oil</li>
+    <li itemProp="recipeIngredient">1 tablespoon butter</li>
     <li itemProp="recipeIngredient">1 large yellow onion, chopped</li>
-    <li itemProp="recipeIngredient">2 large carrots, chopped into ½-inch rounds</li>
-    <li itemProp="recipeIngredient">5 cloves garlic, minced</li>
-    <li itemProp="recipeIngredient">1 cup chopped shitake mushrooms</li>
+    <li itemProp="recipeIngredient">2 large carrots, chopped into ¼-inch rounds</li>
+    <li itemProp="recipeIngredient">8 cloves garlic, roughly chopped</li>
+    <li itemProp="recipeIngredient">Large handful of mini bell peppers, julienned</li>
+    <li itemProp="recipeIngredient">5 oz chopped shitake mushrooms</li>
+    <li itemProp="recipeIngredient">1 head of broccoli, chopped into bite-sized pieces</li>
     <li itemProp="recipeIngredient">1 tablespoon freshly grated ginger</li>
     <li itemProp="recipeIngredient">2 tablespoons freshly grated turmeric</li>
     <li itemProp="recipeIngredient">¼ teaspoon cayenne</li>
     <li itemProp="recipeIngredient">2 teaspoons sea salt</li>
     <li itemProp="recipeIngredient">½ teaspoon ground pepper</li>
-    <li itemProp="recipeIngredient">Large handful of mini bell peppers</li>
     <li itemProp="recipeIngredient">1 lb chicken breast</li>
     <li itemProp="recipeIngredient">6 cups chicken stock</li>
     <li itemProp="recipeIngredient">1 13.5 oz can coconut cream</li>
@@ -42,9 +44,18 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 <h4>Instructions:</h4>
 
-<p itemProp="recipeInstruction">In a Dutch oven or large pot, add oil. Once hot add onion and saute for 10 minutes. Next, add the carrots and peppers and saute for 5-6 minutes, stirring occasionally. Add garlic, ginger, turmeric, cayenne, salt and pepper. Saute for a few minutes longer.</p>
+<p itemProp="recipeInstruction">In a large Dutch oven or soup pot, add oil and butter. Once hot, add onion and saute for 10 minutes. Next, add the carrots, broccoli and peppers and saute for 5-6 minutes, stirring occasionally. Add mushrooms, garlic, ginger, turmeric, cayenne, salt and pepper. Saute for a few minutes longer.</p>
 
-<p itemProp="recipeInstruction">Add chicken broth coconut milk and chicken to the pot.</p>
-<p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. When chicken is fully cooked, remove from pot and shred using two forks.</p>
+![](/images/blog/2024-02-04-detox-chicken-soup/soup-1.jpg)
 
-<p itemProp="recipeInstruction">Carefully place shredded chicken back into the soup and stir in fresh cilantro, tamari and lemon juice. Serve with extra chopped cilantro on top and side of choice. Tear a piece off of a french baguette if it's a cheat day.</p>
+<p itemProp="recipeInstruction">Add chicken broth coconut cream and chicken to the pot.</p>
+
+<p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. When chicken is fully cooked, remove from pot and chop the chicken.</p>
+
+<p itemProp="recipeInstruction">Carefully place shredded chicken back into the soup and stir in fresh cilantro, tamari and lemon juice.</p>
+
+![](/images/blog/2024-02-04-detox-chicken-soup/soup-2.jpg)
+
+<p itemProp="recipeInstruction">Serve with extra chopped cilantro on top and side of choice. Tear a piece of french baguette off it's a cheat day.</p>
+
+![](/images/blog/2024-02-04-detox-chicken-soup/soup.jpg)
