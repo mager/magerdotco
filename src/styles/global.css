@@ -7,7 +7,7 @@ body {
 	font-family: "Poppins", Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
-	max-width: 65ch;
+	max-width: 72ch;
 	text-align: left;
 	background-color: #fff;
 	word-wrap: break-word;
@@ -15,6 +15,17 @@ body {
 	line-height: 1.5;
 	color: #666;
 	font-kerning: none;
+
+}
+
+@keyframes wave {
+	0% {
+		background-position: 0% 0%;
+	}
+
+	100% {
+		background-position: 100% 0%;
+	}
 }
 
 h1,
