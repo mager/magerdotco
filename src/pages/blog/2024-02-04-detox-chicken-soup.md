@@ -50,11 +50,11 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 <p itemProp="recipeInstruction">Add chicken broth coconut cream and chicken to the pot.</p>
 
-<p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. When chicken is fully cooked, remove from pot and chop the chicken.</p>
-
-<p itemProp="recipeInstruction">Carefully place shredded chicken back into the soup and stir in fresh cilantro, tamari and lemon juice.</p>
+<p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. </p>
 
 ![](/images/blog/2024-02-04-detox-chicken-soup/soup-2.jpg)
+
+<p itemProp="recipeInstruction">When chicken is fully cooked, remove from pot and chop the chicken. Place chicken back into the soup and stir in fresh cilantro, tamari and lemon juice.</p>
 
 <p itemProp="recipeInstruction">Serve with extra chopped cilantro on top and side of choice. Tear a piece of french baguette off it's a cheat day.</p>
 
