@@ -2,6 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Chicken Lemon Rice Soup"
 pubDate: "2024-03-15"
+updatedDate: "2024-03-25"
 description: A staple soup that warms the heart and calms the soul.
 tags: ["Recipe"]
 heroImage: "/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg"
@@ -27,9 +28,18 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
     <li itemProp="recipeIngredient">½ cup fresh parsley, or a handful</li>
     <li itemProp="recipeIngredient">1 boneless, skinless chicken breast</li>
     <li itemProp="recipeIngredient">64 oz. chicken broth</li>
-    <li itemProp="recipeIngredient">1 cup jasmine rice, rinsed until clear water flows through</li>
+    <li itemProp="recipeIngredient">¾ cup jasmine rice, rinsed until clear water flows through</li>
     <li itemProp="recipeIngredient">1-2 lemons, yeilding ½ cup lemon juice</li>
+    <li itemProp="recipeIngredient">1 can coconut cream (or coconut milk)</li>
     <li itemProp="recipeIngredient">Olive oil, butter, salt, and pepper</li>
+</ul>
+
+Optionally, you can substitute the following to make a Mexican-themed version:
+
+<ul>
+    <li itemProp="recipeIngredient">Lime instead of lemon</li>
+    <li itemProp="recipeIngredient">Assorted mini sweet peppers instead of carrots</li>
+    <li itemProp="recipeIngredient">Add sweet corn and green chilies</li>
 </ul>
 
 <h4>Instructions:</h4>
@@ -44,7 +54,7 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
 
 <p itemProp="recipeInstruction">Add the chicken and broth and bring to a boil, then reduce the heat to low and cover for 20 minutes. During this time, the rice will thicken up and the chicken will cook.</p>
 
-<p itemProp="recipeInstruction">Remove the chicken from the pot and shred with two forks. Add it back to the pot.</p>
+<p itemProp="recipeInstruction">Remove the chicken from the pot and shred with two forks. Add it back to the pot with the coconut cream.</p>
 
 ![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-2.jpg)
 
@@ -52,4 +62,4 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
 
 ![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg)
 
-<p itemProp="recipeInstruction">Enjoy with some slices of french bread!</p>
+<p itemProp="recipeInstruction">Enjoy with some slices of french bread or tortilla chips!</p>
