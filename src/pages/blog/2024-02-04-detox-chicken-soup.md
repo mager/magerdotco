@@ -2,6 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Detox Chicken Soup"
 pubDate: "2024-02-04"
+updatedDate: "2024-10-28"
 description: A delicious, healthy soup that will reset your system.
 tags: ["Recipe"]
 heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
@@ -9,7 +10,7 @@ heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
 
 <ul class="recipe-meta">
     <li>Prep time: 30 min</li>
-    <li>Cook time: 30 min</li>
+    <li>Cook time: 40 min</li>
 </ul>
 
 ---
@@ -27,7 +28,7 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
     <li itemProp="recipeIngredient">2 large carrots, chopped into ¼-inch rounds</li>
     <li itemProp="recipeIngredient">8 cloves garlic, roughly chopped</li>
     <li itemProp="recipeIngredient">Large handful of mini bell peppers, julienned</li>
-    <li itemProp="recipeIngredient">5 oz chopped shitake mushrooms</li>
+    <li itemProp="recipeIngredient">6 oz chopped shitake mushrooms</li>
     <li itemProp="recipeIngredient">1 head of broccoli, chopped into bite-sized pieces</li>
     <li itemProp="recipeIngredient">1 tablespoon freshly grated ginger</li>
     <li itemProp="recipeIngredient">2 tablespoons freshly grated turmeric</li>
@@ -48,13 +49,13 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 ![](/images/blog/2024-02-04-detox-chicken-soup/soup-1.jpg)
 
-<p itemProp="recipeInstruction">Add chicken broth coconut cream and chicken to the pot.</p>
+<p itemProp="recipeInstruction">Add chicken broth and chicken to the pot.</p>
 
 <p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. </p>
 
 ![](/images/blog/2024-02-04-detox-chicken-soup/soup-2.jpg)
 
-<p itemProp="recipeInstruction">When chicken is fully cooked, remove from pot and chop the chicken. Place chicken back into the soup and stir in fresh cilantro, tamari and lemon juice.</p>
+<p itemProp="recipeInstruction">When chicken is fully cooked, remove from pot and chop the chicken. Place chicken back into the soup and stir in fresh cilantro, tamari, coconut cream and lemon juice.</p>
 
 <p itemProp="recipeInstruction">Serve with extra chopped cilantro on top and side of choice. Tear a piece of french baguette off it's a cheat day.</p>
 
