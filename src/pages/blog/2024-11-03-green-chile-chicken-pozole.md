@@ -4,7 +4,7 @@ title: "Recipe: Green Chicken Chile"
 pubDate: "2024-11-03"
 description: A slightly spicy white chile with green chiles, chicken, corn, and hominy.
 tags: ["Recipe"]
-# heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
+heroImage: "/images/blog/2024-11-03-green-chile-chicken-pozole/soup.jpg"
 ---
 
 <ul class="recipe-meta">
@@ -14,7 +14,7 @@ tags: ["Recipe"]
 
 ---
 
-COMING SOON!
+IMAGE COMING SOON!
 
 <h4>Ingredients:</h4>
 
@@ -49,6 +49,10 @@ COMING SOON!
 
 <p itemProp="recipeInstruction">Sauté the onions for 10 mintutes with butter and avocado oil. Add the garlic, green chiles, and pepper for another 5 minutes then add the spice mixm and stir. Add the hominy and corn for 2 minutes then add the chicken for another 2 minutes. Stir constantly to incoprorate the spices.</p>
 
+![Kale in](/images/blog/2024-11-03-green-chile-chicken-pozole/soup.jpg)
+
 <p itemProp="recipeInstruction">Add the broth and bring to a boil before turning down to low for 30 minutes. Stir every 5 minutes and add salt to taste. Add the lime juice and 3/4 of the cilantro.</p>
+
+![Kale in](/images/blog/2024-11-03-green-chile-chicken-pozole/soup1.jpg)
 
 <p itemProp="recipeInstruction">Serve immediately with sour cream, green onions, tortilla chips and/or garlic bread.</p>

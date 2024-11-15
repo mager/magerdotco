@@ -2,6 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Zuppa Toscana"
 pubDate: "2023-10-20"
+updatedDate: "2024-11-11"
 description: One of the best soups to kick off the autumn season, a variation that uses chicken sausage
 heroImage: "/images/blog/2023-10-20-zuppa-toscana/final.jpg"
 tags: ["Recipe"]
@@ -27,10 +28,11 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
     <li itemProp="recipeIngredient">1 teaspoon onion powder</li>
     <li itemProp="recipeIngredient">1 teaspoon dried basil</li>
     <li itemProp="recipeIngredient">1 teaspoon paprika</li>
-    <li itemProp="recipeIngredient">1 teaspoon red pepper flakes</li>
-    <li itemProp="recipeIngredient">¼ teaspoon ground fennel seed optional</li>
-    <li itemProp="recipeIngredient">pinch dried oregano</li>
-    <li itemProp="recipeIngredient">pinch dried thyme</li>
+    <li itemProp="recipeIngredient">½ teaspoon red pepper flakes</li>
+    <li itemProp="recipeIngredient">½ teaspoon ground fennel seed</li>
+    <li itemProp="recipeIngredient">¼ teaspoon ground mustard</li>
+    <li itemProp="recipeIngredient">¼ teaspoon dried oregano</li>
+    <li itemProp="recipeIngredient">¼ teaspoon dried thyme</li>
 </ul>
 
 <h4>Soup Ingredients:</h4>
@@ -50,7 +52,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
 <h4>Instructions:</h4>
 
 <p itemProp="recipeInstruction">
-    Mix all of the dry seasoning in a bowl and massage your ground chicken with the spice mixture. It might seem like a lot of seasoning but it will also flavor the soup. Put this in the fridge at least 1 hour before cooking and up to 24 hours.
+    Grind your fennel and mix all of the dry seasoning in a bowl. Massage your ground chicken with the spice mixture thoroughly. It might seem like a lot of seasoning but it will also flavor the soup. Put this in the fridge at least 1 hour before cooking and up to 24 hours.
 </p>
 
 <p itemProp="recipeInstruction">
@@ -64,7 +66,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
 </p>
 
 <p itemProp="recipeInstruction">
-    Toss in the potatoes and coat them with the camelized onions and garlic for a minute. Pour the chicken broth into the Dutch oven and bring to a boil over high heat. Boil until fork tender, about 10-15 minutes. Stir occasionally.
+    Toss in the potatoes and coat them with the camelized onions and garlic for a minute. Pour the chicken broth into the Dutch oven and bring to a boil over medium high heat. Cover and reduce heat until potatoes are fork tender, about 15-20 minutes. Stir occasionally.
 </p>
 
 ![Kale in](/images/blog/2023-10-20-zuppa-toscana/kale-in.jpg)
@@ -74,7 +76,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
 </p>
 
 <p itemProp="recipeInstruction">
-    Serve immediately with a crusty piece of bread and a heavy sprinkle of pecorino romano.
+    Serve immediately with a crusty piece of bread and a heavy sprinkle of pecorino romano and cracked black pepper.
 </p>
 
 ![Final product](/images/blog/2023-10-20-zuppa-toscana/final.jpg)
