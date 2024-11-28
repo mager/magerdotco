@@ -34,7 +34,7 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 - Extra-virgin olive oil
 - Diamond Crystal (or other Kosher) salt
 - Ground black pepper
-- ½ cup dry white wine
+- 1 cup dry white wine
 - ¼ cup finely chopped parsley
 - 1 tablespoon finely chopped sage
 - 1 tablespoon finely chopped thyme
@@ -49,7 +49,7 @@ Preheat the oven to 300º and then tear up the bread into bite-sized pieces. Dry
 
 Cook the sausage and set aside.
 
-Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, shallots, fennel, leeks, garlic) with salt and pepper and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs (parsley, sage, thyme) for a minute or two then pour the carmelized mix into the bread bowl.
+Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, shallots, fennel, leeks, garlic) with salt and pepper and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs (parsley, sage, thyme) for a minute or two then pour the carmelized mix into the bread bowl. Pour in the wine and sweat it out for 5 more minutes.
 
 ![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-2.jpg)
 

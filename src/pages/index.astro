@@ -10,7 +10,7 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
     new Date(a.frontmatter.pubDate).valueOf()
 );
 
-const featuredPost = posts[0];
+const featuredPost = posts[8];
 if (!featuredPost) {
   throw new Error("Could not find featured post");
 }
