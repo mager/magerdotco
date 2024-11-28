@@ -2,10 +2,13 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Thanksgiving Stuffing"
 pubDate: "2022-11-22"
+updateDate: "2024-11-28"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
 heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg"
 ---
+
+This is one of those stuffing recipies that you can take your time to prep. Chop veggies ahead of time so the actual act of making it is easier.
 
 <ul class="recipe-meta">
     <li>Prep time: 1 ½ hours</li>
@@ -43,7 +46,7 @@ You should plan to gather all of the above ingredients before getting started. F
 
 Preheat the oven to 300º and then tear up the bread into bite-sized pieces. Dry out the bread in the oven for about 15-20 minutes until it's a little softer than a crouton; crispy but chewy. Toss the bread into a big bowl and set aside.
 
-Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, fennel, leeks, garlic) and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs for a minute or two then point the carmelized mix into the bread bowl.
+Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, fennel, leeks, garlic) and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs for a minute or two then pour the carmelized mix into the bread bowl.
 
 ![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-2.jpg)
 
@@ -51,7 +54,7 @@ Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that i
 
 Butter a 9x13-inch baking pan then pour in the bread mixture, evening it out. Pour some more stock on top (1-2 cups); don't worry, the bread will soak it up and the oven will dry it out. Cover with aluminum foil.
 
-Crank up the oven to 425º and put the stuffing in the oven for 30 minutes. Remove the foil, take a whiff, and cook for another 40 minutes. At this point, the top should be crusty but the bottom should still be soft.
+Crank up the oven to 425º and put the stuffing in the oven for 30 minutes. Remove the foil, take a whiff, and cook for another 30-40 minutes. At this point, the top should be crusty but the bottom should still be soft.
 
 ![Finished stuffing](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg)
 
