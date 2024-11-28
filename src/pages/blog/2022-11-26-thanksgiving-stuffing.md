@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Thanksgiving Stuffing"
 pubDate: "2022-11-22"
-updateDate: "2024-11-28"
+updatedDate: "2024-11-28"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
 heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg"
@@ -26,7 +26,8 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 - 1 cup (2 sticks) unsalted butter, plus more
 - 1 loaf sourdough bread (1 ½lb), sliced 1 inch thick, torn into ½ inch pieces
 - 1 pound breakfast sausage (or 1/2 cup green lentils)
-- 1 large onion, finely chopped
+- 1 medium onion, finely chopped
+- 2 shallots, finely chopped
 - 1 fennel bulb, finely chopped
 - 4 cloves of garlic, minched
 - 2 stalks of leeks (or celery)
@@ -42,15 +43,17 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 
 ### Instructions
 
-You should plan to gather all of the above ingredients before getting started. Finely chop the onion, fennel, and leeks and set aside. The leeks can be put into a bowl with cold water to clean them properly. Mince the garlic and chop up the fragrant herbs.
+You should plan to gather all of the above ingredients before getting started. Finely chop the onion, shallots, fennel, and leeks and set aside. The leeks can be put into a bowl with cold water to clean them properly. Mince the garlic and chop up the fragrant herbs.
 
 Preheat the oven to 300º and then tear up the bread into bite-sized pieces. Dry out the bread in the oven for about 15-20 minutes until it's a little softer than a crouton; crispy but chewy. Toss the bread into a big bowl and set aside.
 
-Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, fennel, leeks, garlic) and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs for a minute or two then pour the carmelized mix into the bread bowl.
+Cook the sausage and set aside.
+
+Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, shallots, fennel, leeks, garlic) with salt and pepper and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs (parsley, sage, thyme) for a minute or two then pour the carmelized mix into the bread bowl.
 
 ![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-2.jpg)
 
-Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that in the bowl, then mix it all together.
+Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that in the bowl. Add the sausage and then mix it all together.
 
 Butter a 9x13-inch baking pan then pour in the bread mixture, evening it out. Pour some more stock on top (1-2 cups); don't worry, the bread will soak it up and the oven will dry it out. Cover with aluminum foil.
 
