@@ -5,7 +5,7 @@ pubDate: "2022-11-22"
 updatedDate: "2024-11-28"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
-heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg"
+heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg"
 ---
 
 This is one of those stuffing recipies that you can take your time to prep. Chop veggies ahead of time so the actual act of making it is easier.
@@ -51,15 +51,15 @@ Cook the sausage and set aside.
 
 Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, shallots, fennel, leeks, garlic) with salt and pepper and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs (parsley, sage, thyme) for a minute or two then pour the carmelized mix into the bread bowl. Pour in the wine and sweat it out for 5 more minutes.
 
-![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-2.jpg)
+![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/mirepoix.jpg)
 
 Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that in the bowl. Add the sausage and then mix it all together.
 
 Butter a 9x13-inch baking pan then pour in the bread mixture, evening it out. Pour some more stock on top (1-2 cups); don't worry, the bread will soak it up and the oven will dry it out. Cover with aluminum foil.
 
-Crank up the oven to 425º and put the stuffing in the oven for 30 minutes. Remove the foil, take a whiff, and cook for another 30-40 minutes. At this point, the top should be crusty but the bottom should still be soft.
+Crank up the oven to 400º convection and put the stuffing in the oven for 30 minutes. Remove the foil, take a whiff, and cook for another 35-45 minutes. At this point, the top should be crusty but the bottom should still be soft.
 
-![Finished stuffing](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-1.jpg)
+![Finished stuffing](/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg)
 
 Let it rest for 15 minutes, and then serve. Top it with gravy for an enhanced experience.
 
