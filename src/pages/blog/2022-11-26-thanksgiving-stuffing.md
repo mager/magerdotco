@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Thanksgiving Stuffing"
 pubDate: "2022-11-22"
-updatedDate: "2024-11-28"
+updatedDate: "2024-12-01"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
 heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg"
