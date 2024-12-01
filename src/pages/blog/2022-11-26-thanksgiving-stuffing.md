@@ -5,7 +5,7 @@ pubDate: "2022-11-22"
 updatedDate: "2024-12-01"
 description: "It's not Thanksgiving without the stuffing..."
 tags: ["Recipe"]
-heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg"
+heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/hero.jpg"
 ---
 
 This is one of those stuffing recipies that you can take your time to prep. Chop veggies ahead of time so the actual act of making it is easier.
