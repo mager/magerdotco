@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Recipe: Chicken Lemon Rice Soup"
 pubDate: "2024-03-15"
-updatedDate: "2024-03-25"
+updatedDate: "2024-12-02"
 description: A staple soup that warms the heart and calms the soul.
 tags: ["Recipe"]
 heroImage: "/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg"
@@ -26,15 +26,15 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
     <li itemProp="recipeIngredient">2-3 carrots</li>
     <li itemProp="recipeIngredient">5-6 cloves of garlic</li>
     <li itemProp="recipeIngredient">½ cup fresh parsley, or a handful</li>
-    <li itemProp="recipeIngredient">1 boneless, skinless chicken breast</li>
-    <li itemProp="recipeIngredient">64 oz. chicken broth</li>
+    <li itemProp="recipeIngredient">2 boneless, skinless chicken breasts</li>
+    <li itemProp="recipeIngredient">64 oz. low sodium chicken broth</li>
     <li itemProp="recipeIngredient">¾ cup jasmine rice, rinsed until clear water flows through</li>
     <li itemProp="recipeIngredient">1-2 lemons, yeilding ½ cup lemon juice</li>
     <li itemProp="recipeIngredient">1 can coconut cream (or coconut milk)</li>
-    <li itemProp="recipeIngredient">Olive oil, butter, salt, and pepper</li>
+    <li itemProp="recipeIngredient">Olive oil, butter, garlic powder, salt, and pepper</li>
 </ul>
 
-Optionally, you can substitute the following to make a Mexican-themed version:
+<p itemProp="recipeInstruction">Optionally, you can substitute the following to make a Mexican-themed version:</p>
 
 <ul>
     <li itemProp="recipeIngredient">Lime instead of lemon</li>
@@ -48,9 +48,9 @@ Optionally, you can substitute the following to make a Mexican-themed version:
 
 ![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-1.jpg)
 
-<p itemProp="recipeInstruction">Bring a large dutch oven over medium high heat and add a pad of butter, a glug of olive oil, and the chopped onions. Salt, pepper, and carmelize these onions for 2-3 minutes, then add the chopped garlic.</p>
+<p itemProp="recipeInstruction">Bring a large dutch oven over medium high heat and add a pad of butter, a glug of olive oil, and the chopped onions. Salt, pepper, garlic powder and carmelize these onions for 5-7 minutes.</p>
 
-<p itemProp="recipeInstruction">Saute for 2-3 more minutes until things soften up then add the carrots and rice and go for 2-3 more minutes. It's okay to toast the rice a little.</p>
+<p itemProp="recipeInstruction">Once the onions have softened up add the garlic and carrots and saute for 2-3 more minutes. Then add the rice and go for 2-3 more minutes. It's okay to toast the rice a little.</p>
 
 <p itemProp="recipeInstruction">Add the chicken and broth and bring to a boil, then reduce the heat to low and cover for 20 minutes. During this time, the rice will thicken up and the chicken will cook.</p>
 
