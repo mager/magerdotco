@@ -7,13 +7,13 @@ body {
 	font-family: "Poppins", Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
-	max-width: 72ch;
+	max-width: 90ch;
 	text-align: left;
 	background-color: #fff;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #666;
+	color: #333;
 	font-kerning: none;
 
 }
@@ -41,12 +41,14 @@ b {
 
 a,
 a:visited {
-	color: #00b0f0;
+	color: #007acc;
 	text-decoration: none;
+	transition: color 0.3s;
 }
 
 a:hover {
 	text-decoration: underline;
+	color: #005999;
 }
 
 textarea {
@@ -206,8 +208,8 @@ h4 {
 
 .grid {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 1rem;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-gap: 1.5rem;
 	margin-top: 1rem;
 }
 
@@ -255,4 +257,28 @@ h4 {
 	.recipe-meta {
 		font-size: 0.8rem;
 	}
+}
+
+/* Card-like Article Layout */
+article {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 1rem;
+	margin-bottom: 1.5rem;
+	background-color: #f9f9f9;
+}
+
+/* Updated Article Width */
+main {
+	width: 100%;
+	margin: auto;
+}
+
+header {
+	border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+	color: #fff;
+	font-size: 2rem;
 }

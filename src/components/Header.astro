@@ -4,13 +4,12 @@ import Logo from "./Logo.astro";
 import { SITE_TITLE } from "../config";
 ---
 
-<header>
+<header style="width: 100%;">
   <h2>
     <Logo href="/">{SITE_TITLE}</Logo>
   </h2>
   <nav>
     <HeaderLink href="/about">About</HeaderLink>
-    <HeaderLink href="/learn">Learn</HeaderLink>
     <HeaderLink href="/blog">Blog</HeaderLink>
   </nav>
 </header>
@@ -20,6 +19,7 @@ import { SITE_TITLE } from "../config";
     text-align: center;
   }
   header {
+    width: 100%;
     margin: 0em 0 2em;
   }
 
