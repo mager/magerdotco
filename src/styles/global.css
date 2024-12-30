@@ -1,21 +1,15 @@
-/*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
 body {
-	font-family: "Poppins", Verdana, sans-serif;
-	margin: auto;
-	padding: 20px;
-	max-width: 90ch;
+	font-family: "Fira Code", "IBM Plex Mono", "Source Code Pro", monospace;
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
 	text-align: left;
-	background-color: #fff;
+	background-color: #000;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	line-height: 1.5;
-	color: #333;
-	font-kerning: none;
-
+	line-height: 1.8;
+	color: #00ff00;
+	font-size: 18px;
 }
 
 @keyframes wave {
@@ -33,31 +27,27 @@ h2,
 h3,
 h4,
 h5,
-h6,
-strong,
-b {
-	color: #222;
+h6 {
+	font-family: "IBM Plex Mono", "Source Code Pro", monospace;
+	color: #fff;
 }
 
 a,
 a:visited {
-	color: #007acc;
-	text-decoration: none;
-	transition: color 0.3s;
+	color: magenta;
+	text-decoration: underline;
 }
 
 a:hover {
-	text-decoration: underline;
-	color: #005999;
+	color: #fff;
 }
 
+input,
 textarea {
-	width: 100%;
-	font-size: 16px;
-}
-
-input {
-	font-size: 16px;
+	font-family: "Source Code Pro", monospace;
+	background-color: #222;
+	color: #00ff00;
+	border: 1px solid #444;
 }
 
 content {
@@ -73,14 +63,19 @@ img {
 	height: auto;
 }
 
-code {
-	padding: 4px 6px;
-	background-color: #e5e5e5;
-	font-size: 125%;
+code,
+pre {
+	font-family: "Fira Code", "Space Mono", monospace;
+	background-color: #111;
+	/* Darker background for contrast */
+	color: #0f0;
+	/* Green text */
+	padding: 8px;
+	border-radius: 4px;
 }
 
 pre {
-	padding: 1rem;
+	overflow-x: auto;
 }
 
 pre>code {
@@ -89,7 +84,7 @@ pre>code {
 
 blockquote {
 	border: 1px solid #999;
-	color: #222;
+	color: #333;
 	padding: 2px 0px 2px 20px;
 	margin: 0px;
 	font-style: italic;
@@ -101,15 +96,7 @@ hr {
 	border: none;
 }
 
-p,
-ul,
-li,
-time {
-	font-family: "Poppins", Verdana, sans-serif;
-}
-
 h1 {
-	font-family: Rubik;
 	font-weight: 700;
 	font-size: 4rem;
 	margin: 0 0 1.5rem;
@@ -117,13 +104,11 @@ h1 {
 }
 
 h2 {
-	font-family: "Great Vibes", cursive;
 	font-size: 3rem;
 	line-height: 1rem;
 }
 
 article h2 {
-	font-family: Poppins;
 	font-size: 2rem;
 	line-height: 28px;
 	margin-bottom: 8px;
@@ -133,7 +118,6 @@ h3,
 h4,
 nav,
 nav a {
-	font-family: "Poppins", Verdana, sans-serif;
 	font-weight: 500;
 }
 
@@ -163,16 +147,15 @@ h4 {
 
 /* Intro */
 .intro {
-	padding: 0 0 1rem;
+	padding: 0 1rem;
 	margin: 0 0 2rem;
-	border-bottom: 1px solid #ddd;
 }
 
 /* Hero */
 .hero {
-	background-color: #f2f2f2;
 	padding: 1rem;
 	border-radius: 8px;
+	border: 2px solid #fff;
 }
 
 .hero h3 {
@@ -189,8 +172,8 @@ h4 {
 
 /* Recipe */
 .recipe-meta {
-	border: 1px solid #cccccc;
-	border-radius: 8px;
+	border: 2px dotted #fff;
+	border-radius: 4px;
 	padding: 4px 0;
 	display: inline;
 }
@@ -261,11 +244,9 @@ h4 {
 
 /* Card-like Article Layout */
 article {
-	border: 1px solid #ddd;
-	border-radius: 8px;
+	border: 2px solid #fff;
 	padding: 1rem;
 	margin-bottom: 1.5rem;
-	background-color: #f9f9f9;
 }
 
 /* Updated Article Width */
@@ -275,7 +256,7 @@ main {
 }
 
 header {
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #fff;
 }
 
 header h1 {

@@ -4,11 +4,10 @@ import { GoogleFontsOptimizer } from "astro-google-fonts-optimizer";
 // all pages through the use of the <BaseHead /> component.
 import "../styles/global.css";
 
-import "@fontsource/rubik";
-import "@fontsource/rubik/500.css";
-import "@fontsource/great-vibes";
-import "@fontsource/poppins/100.css";
-import "@fontsource/poppins";
+import "@fontsource/fira-code"; 
+import "@fontsource/ibm-plex-mono";
+import "@fontsource/space-mono";
+import "@fontsource/source-code-pro"; 
 
 export interface Props {
   title: string;
@@ -25,8 +24,9 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <meta name="generator" content={Astro.generator} />
 <GoogleFontsOptimizer
-  url="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&family=GreatVibes&family=Poppins:wght@100;400&display=swap"
+  url="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&family=IBM+Plex+Mono:wght@300;400;600&family=Space+Mono:wght@400;700&family=Source+Code+Pro:wght@300;400;700&display=swap"
 />
+
 <!-- Primary Meta Tags -->
 <title>{title}</title>
 <meta name="title" content={title} />
