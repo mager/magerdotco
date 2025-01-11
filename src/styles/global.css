@@ -1,25 +1,21 @@
-body {
-	font-family: "Fira Code", "IBM Plex Mono", "Source Code Pro", monospace;
-	margin: 0;
-	padding: 0;
-	max-width: 100%;
-	text-align: left;
-	background-color: #000;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
-	line-height: 1.8;
-	color: #00ff00;
-	font-size: 18px;
+:root {
+	--bg-color: #f8f8f8;
+	--text-color: #333;
+	--accent-color: #a0522d;
+	--code-bg: #f0f0f0;
+	--code-text: #333;
+	--link-color: #0056b3;
+	--border-color: #ddd;
+	--font-base: "Lora", "Georgia", serif;
+	--font-mono: "Fira Code", "IBM Plex Mono", monospace;
 }
 
-@keyframes wave {
-	0% {
-		background-position: 0% 0%;
-	}
-
-	100% {
-		background-position: 100% 0%;
-	}
+body {
+	font-family: var(--font-base);
+	margin: 0;
+	line-height: 1.6;
+	color: var(--text-color);
+	background-color: var(--bg-color);
 }
 
 h1,
@@ -28,238 +24,109 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "IBM Plex Mono", "Source Code Pro", monospace;
-	color: #fff;
+	font-family: var(--font-base);
+	margin-bottom: 0.5em;
 }
+
+h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	margin-bottom: 1em;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: 600;
+	margin-bottom: 0.75em;
+}
+
+h3 {
+	font-size: 1.5em;
+	font-weight: 500;
+	margin-bottom: 0.5em;
+}
+
+h4 {
+	font-size: 1.2em;
+	font-style: italic;
+	margin-bottom: 0.5em;
+}
+
+/* Keep italic */
 
 a,
 a:visited {
-	color: magenta;
+	color: var(--link-color);
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #fff;
+	text-decoration: none;
 }
 
-input,
-textarea {
-	font-family: "Source Code Pro", monospace;
-	background-color: #222;
-	color: #00ff00;
-	border: 1px solid #444;
-}
+/* ... rest of your global styles from previous example ... */
 
-content {
-	line-height: 1.6;
-}
-
-table {
-	width: 100%;
-}
-
-img {
-	max-width: 100%;
-	height: auto;
-}
-
-code,
-pre {
-	font-family: "Fira Code", "Space Mono", monospace;
-	background-color: #111;
-	/* Darker background for contrast */
-	color: #0f0;
-	/* Green text */
-	padding: 8px;
-	border-radius: 4px;
-}
-
-pre {
-	overflow-x: auto;
-}
-
-pre>code {
-	all: unset;
-}
-
-blockquote {
-	border: 1px solid #999;
-	color: #333;
-	padding: 2px 0px 2px 20px;
-	margin: 0px;
-	font-style: italic;
-}
-
-hr {
-	border-top: 1px solid #ccc;
-	height: 0px;
-	border: none;
-}
-
-h1 {
-	font-weight: 700;
-	font-size: 4rem;
-	margin: 0 0 1.5rem;
-	line-height: 72px;
-}
-
-h2 {
-	font-size: 3rem;
-	line-height: 1rem;
-}
-
-article h2 {
-	font-size: 2rem;
-	line-height: 28px;
-	margin-bottom: 8px;
-}
-
-h3,
-h4,
-nav,
-nav a {
-	font-weight: 500;
-}
-
-h3 {
-	font-size: 1.5rem;
-}
-
-h4 {
-	margin: 0 0 12px;
-	font-size: 1.5rem;
-	font-style: italic;
-}
-
+/* Add styles for elements used across components but not specifically in one */
 .date {
 	font-style: italic;
+	margin-bottom: 1em;
+	/* Add margin for better spacing */
 }
 
-.updated {
-	font-style: italic;
-	margin: 0;
-	font-size: 0.8rem;
-}
-
-.hide {
-	display: none;
-}
-
-/* Intro */
-.intro {
-	padding: 0 1rem;
-	margin: 0 0 2rem;
-}
-
-/* Hero */
-.hero {
-	padding: 1rem;
-	border-radius: 8px;
-	border: 2px solid #fff;
-}
-
-.hero h3 {
-	font-size: 1.5rem;
-	margin: 0;
-}
-
-.hero h5 {
-	font-style: italic;
-	font-weight: normal;
-	margin: 0 0 1rem;
-}
-
-
-/* Recipe */
-.recipe-meta {
-	border: 2px dotted #fff;
-	border-radius: 4px;
-	padding: 4px 0;
-	display: inline;
-}
-
-.recipe-meta li {
-	list-style: none;
-	padding: 0 12px;
-	margin: 0;
-	display: inline;
-}
-
-.recipe-meta li:first-child {
-	border-left: none;
-}
-
-.grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	grid-gap: 1.5rem;
-	margin-top: 1rem;
-}
-
-/* Learn */
-.breadcrumb {
-	border-top: 1px solid #ccc;
-	padding: 1rem 0;
-	display: flex;
-	justify-content: space-between;
-}
-
-.breadcrumb .prev {
-	margin-right: auto;
-}
-
-.breadcrumb .next {
-	margin-left: auto;
-}
-
-/* Mobile Styles */
-@media only screen and (max-width: 600px) {
-	h1 {
-		font-size: 3rem;
-		line-height: 3rem;
-	}
-
-	h1.title {
-		font-size: 2.5rem;
-		line-height: 3rem;
-	}
-
-	h2 {
-		margin: 24px 0 48px;
-	}
-
-	.grid {
-		grid-template-columns: 1fr;
-	}
-
-	.breadcrumb {
-		flex-direction: column;
-		align-items: flex-start;
-	}
-
-	.recipe-meta {
-		font-size: 0.8rem;
-	}
-}
-
-/* Card-like Article Layout */
 article {
-	border: 2px solid #fff;
+	margin-bottom: 2em;
+}
+
+.list {
+	margin: 0 20px;
+}
+
+/*  Move this to global CSS
+ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0 auto;
+      }
+*/
+ul li {
+	display: block;
+	/* removed flex */
+	margin-bottom: 1em;
+	padding: 1em;
+	background-color: #fff;
+	border-radius: 8px;
+}
+
+ul li time {
+	display: block;
+	/* removed flex */
+	font-style: italic;
+	color: #000;
+	margin-bottom: 0.5em;
+	/* add margin */
+	font-size: 0.9rem;
+}
+
+ul li a {
+	text-decoration: none;
+	color: #333;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+ul li a:hover {
+	color: var(--link-color);
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	/* Center the container */
 	padding: 1rem;
-	margin-bottom: 1.5rem;
+	/* Add some padding around content */
 }
 
-/* Updated Article Width */
 main {
-	width: 100%;
-	margin: auto;
-}
-
-header {
-	border-bottom: 1px solid #fff;
-}
-
-header h1 {
-	color: #fff;
-	font-size: 2rem;
+	margin: 0 auto;
+	padding: 1rem;
 }

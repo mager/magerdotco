@@ -19,50 +19,19 @@ const {
   content: { title, description, pubDate, updatedDate, heroImage },
 } = Astro.props;
 ---
-
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} image={heroImage} />
-    <style>
-      .title {
-        font-size: 3rem;
-        margin: 0.25em 0;
-        line-height: 3.5rem;
-      }
-    </style>
+    <link rel="stylesheet" href="/styles.css"> {/* Link to your CSS file */}
   </head>
-
   <body>
     <Header />
     <main>
       <article>
         {heroImage && <img src={heroImage} alt="" />}
         <h1 class="title">{title}</h1>
-        {
-          pubDate && (
-            <div class="date">
-              Published:
-              <time>
-                {format(parse(pubDate, "yyyy-M-dd", new Date()), "MMM d, yyy")}
-              </time>
-            </div>
-          )
-        }
-        {
-          updatedDate && (
-            <div>
-              <em>
-                Updated:{" "}
-                <time>
-                  {format(
-                    parse(updatedDate, "yyyy-M-dd", new Date()),
-                    "MMM d, yyy"
-                  )}
-                </time>
-              </em>
-            </div>
-          )
-        }
+        {pubDate && <div class="date">Published: <time>{format(parse(pubDate, "yyyy-M-dd", new Date()), "MMM d, yyyy")}</time></div>}
+        {updatedDate && <div><em>Updated: <time>{format(parse(updatedDate, "yyyy-M-dd", new Date()), "MMM d, yyyy")}</time></em></div>}
         <hr />
         <slot />
       </article>
