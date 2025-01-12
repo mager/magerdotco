@@ -21,24 +21,22 @@ The ingredient list is short, and it will teach you how to make vodka sauce (yes
 
 I'm jealous that you're getting ready to cook this tonight.
 
-<h4>Ingredients:</h4>
+### Ingredients
 
-<ul>
-  <li itemProp="recipeIngredient">1 medium onion</li>
-  <li itemProp="recipeIngredient">6 garlic cloves</li>
-  <li itemProp="recipeIngredient">8 oz. Parmesan cheese</li>
-  <li itemProp="recipeIngredient">2 Tbsp. extra-virgin olive oil</li>
-  <li itemProp="recipeIngredient">1 4.5-oz. tube double-concentrated tomato paste</li>
-  <li itemProp="recipeIngredient">½ tsp. crushed red pepper flakes</li>
-  <li itemProp="recipeIngredient">2 oz. vodka</li>
-  <li itemProp="recipeIngredient">¾ cup heavy cream or half & half</li>
-  <li itemProp="recipeIngredient">1 lb. rigatoni</li>
-  <li itemProp="recipeIngredient">Basil leaves</li>
-</ul>
+- 1 medium onion
+- 6 garlic cloves
+- 8 oz. Parmesan cheese
+- 2 Tbsp. extra-virgin olive oil
+- 1 4.5-oz. tube double-concentrated tomato paste
+- 1/2 tsp. crushed red pepper flakes
+- 2 oz. vodka
+- 3/4 cup heavy cream or half & half
+- 1 lb. rigatoni
+- Basil leaves
 
 ![Ingredients](/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-1.jpg)
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstructions">To prepare: dice the onion small, press or mince the garlic, and shred some fresh parm. I like to pour the vodka in a small glass and prepare a measuring cup (for the cream, for later).</p>
 
@@ -56,7 +54,7 @@ I'm jealous that you're getting ready to cook this tonight.
 
 <p itemProp="recipeInstruction">Add the vodka to deglaze and keep stiring for a few minutes; it will evaporate pretty quickly. I prefer Tito's or Chopin potato vodka. Be sure to taste the vodka while you're cooking for a more immersive experience.</p>
 
-<p itemProp="recipeInstruction">By now, the water should be close to boiling. Grab that measuring cup and scoop out ¼ of the hot water. Pour the ¾ cup cream over the hot water to warm it up a bit (this will prevent the cream from breaking apart when you mix it in with the tomato jam).</p>
+<p itemProp="recipeInstruction">By now, the water should be close to boiling. Grab that measuring cup and scoop out ¼ of the hot water. Pour the 3/4 cup cream over the hot water to warm it up a bit (this will prevent the cream from breaking apart when you mix it in with the tomato jam).</p>
 
 <p itemProp="recipeInstruction">At this point, you will want to turn down the heat to medium low or low and slowly add the diluted cream mixture. Add a little at a time, then stir. If you get the end of your cream and want it creamier, add more (we're not going for healthy here).</p>
 

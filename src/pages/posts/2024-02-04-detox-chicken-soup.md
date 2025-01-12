@@ -19,7 +19,7 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 ![](/images/blog/2024-02-04-detox-chicken-soup/detox-soup-website.png)
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <ul>
     <li itemProp="recipeIngredient">2 tablespoons olive or avocado oil</li>
@@ -34,7 +34,7 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
     <li itemProp="recipeIngredient">2 tablespoons freshly grated turmeric</li>
     <li itemProp="recipeIngredient">¼ teaspoon cayenne</li>
     <li itemProp="recipeIngredient">2 teaspoons sea salt</li>
-    <li itemProp="recipeIngredient">½ teaspoon ground pepper</li>
+    <li itemProp="recipeIngredient">1/2 teaspoon ground pepper</li>
     <li itemProp="recipeIngredient">1 lb chicken breast</li>
     <li itemProp="recipeIngredient">6 cups chicken stock</li>
     <li itemProp="recipeIngredient">1 13.5 oz can coconut cream</li>
@@ -43,7 +43,7 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
     <li itemProp="recipeIngredient">¼ cup fresh cilantro, plus more for topping</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">In a large Dutch oven or soup pot, add oil and butter. Once hot, add onion and saute for 10 minutes. Next, add the carrots, broccoli and peppers and saute for 5-6 minutes, stirring occasionally. Add mushrooms, garlic, ginger, turmeric, cayenne, salt and pepper. Saute for a few minutes longer.</p>
 

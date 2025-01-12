@@ -11,8 +11,8 @@ heroImage: "/images/blog/2022-11-26-thanksgiving-stuffing/hero.jpg"
 This is one of those stuffing recipies that you can take your time to prep. Chop veggies ahead of time so the actual act of making it is easier.
 
 <ul class="recipe-meta">
-    <li>Prep time: 1 ½ hours</li>
-    <li>Cook time: 1 ½ hours</li>
+    <li>Prep time: 1 1/2 hours</li>
+    <li>Cook time: 1 1/2 hours</li>
 </ul>
 
 Thanksgiving simply isn't complete without a good stuffing, and this recipe will raise the bar on how you think about stuffing going forward. We'll borrow most of it from [Bon Appetit's "If It Ain't Broke, Don't Fix It" recipe](https://www.bonappetit.com/recipe/if-it-aint-broke-dont-fix-it-stuffing) from Chris Morroco in 2017.
@@ -24,7 +24,7 @@ We've been making this stuffing for the past 4 years and so good that it's hard 
 ### Ingredients
 
 - 1 cup (2 sticks) unsalted butter, plus more
-- 1 loaf sourdough bread (1 ½lb), sliced 1 inch thick, torn into ½ inch pieces
+- 1 loaf sourdough bread (1 1/2lb), sliced 1 inch thick, torn into 1/2 inch pieces
 - 1 pound breakfast sausage (or 1/2 cup green lentils)
 - 1 medium onion, finely chopped
 - 2 shallots, finely chopped

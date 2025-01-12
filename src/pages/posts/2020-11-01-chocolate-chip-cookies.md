@@ -21,23 +21,24 @@ The key here is to get your butter to room temperature, then put it in the fridg
 
 And the milk powder is optional, but I highly recommend it.
 
-<h4>Ingredients:</h4>
+### Ingredients
+
 <ul>
-    <li itemProp="recipeIngredient">1 ¾ cups AP flour</li>
+    <li itemProp="recipeIngredient">1 3/4 cups AP flour</li>
     <li itemProp="recipeIngredient">2 tablespoons milk powder (it's on Amazon)</li>
-    <li itemProp="recipeIngredient">1 ½ teaspoons salt (slightly more than Tosi's recipe)</li>
-    <li itemProp="recipeIngredient">½ teaspoon baking powder</li>
+    <li itemProp="recipeIngredient">1 1/2 teaspoons salt (slightly more than Tosi's recipe)</li>
+    <li itemProp="recipeIngredient">1/2 teaspoon baking powder</li>
     <li itemProp="recipeIngredient">¼ teaspoon baking soda</li>
     <li itemProp="recipeIngredient">1 cup (2 sticks, trust me) unsalted butter, super soft but cold</li>
-    <li itemProp="recipeIngredient">¾ cup light brown sugar</li>
-    <li itemProp="recipeIngredient">½ cup regular sugar</li>
+    <li itemProp="recipeIngredient">3/4 cup light brown sugar</li>
+    <li itemProp="recipeIngredient">1/2 cup regular sugar</li>
     <li itemProp="recipeIngredient">1 egg</li>
     <li itemProp="recipeIngredient">2 teaspoons vanilla extract </li>
     <li itemProp="recipeIngredient">1 10-12 oz bag chocolate chips (<a href="https://www.guittard.com/our-chocolate/detail/super-cookie-chocolate-chips">Guittard Super Chips</a> are the best)</li>
-    <li itemProp="recipeIngredient">½ cup chopped walnuts (optional)</li>
+    <li itemProp="recipeIngredient">1/2 cup chopped walnuts (optional)</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">
     Preheat the oven at 350° and get a sheet pan ready. You're going to freeze these cookies for later, but you might as well make a couple now.

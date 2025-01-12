@@ -17,7 +17,7 @@ I stole this recipe from the <a href="https://www.bonappetit.com/recipe/expertly
 
 ![BA's best](/images/blog/2020-11-25-thanksgiving-turkey/ba.png)
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <p><em>The Bird</em></p>
 <ul>
@@ -48,7 +48,7 @@ I stole this recipe from the <a href="https://www.bonappetit.com/recipe/expertly
     <li itemProp="recipeIngredient">4 tablespoons olive oil</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">Cut the turkey into 5 pieces: two wing pieces, two full legs, and the double breast with the bone left in. It's much better if you ask your butcher to cut it for you (shoutout to <a href="http://www.publicanqualitymeats.com/" target="_blank">Publican Quality Meats</a> in Chicago), but if you have to cut it yourself, just look for a good video online.</p>
 

@@ -19,17 +19,17 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
 
 ![](/images/blog/2024-03-10-chicken-lemon-rice-soup/website.png)
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <ul>
     <li itemProp="recipeIngredient">1 medium sweet onion</li>
     <li itemProp="recipeIngredient">2-3 carrots</li>
     <li itemProp="recipeIngredient">5-6 cloves of garlic</li>
-    <li itemProp="recipeIngredient">½ cup fresh parsley, or a handful</li>
+    <li itemProp="recipeIngredient">1/2 cup fresh parsley, or a handful</li>
     <li itemProp="recipeIngredient">2 boneless, skinless chicken breasts</li>
     <li itemProp="recipeIngredient">64 oz. low sodium chicken broth</li>
-    <li itemProp="recipeIngredient">¾ cup jasmine rice, rinsed until clear water flows through</li>
-    <li itemProp="recipeIngredient">1-2 lemons, yeilding ½ cup lemon juice</li>
+    <li itemProp="recipeIngredient">3/4 cup jasmine rice, rinsed until clear water flows through</li>
+    <li itemProp="recipeIngredient">1-2 lemons, yeilding 1/2 cup lemon juice</li>
     <li itemProp="recipeIngredient">1 can coconut cream (or coconut milk)</li>
     <li itemProp="recipeIngredient">Olive oil, butter, garlic powder, salt, and pepper</li>
 </ul>
@@ -42,7 +42,7 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
     <li itemProp="recipeIngredient">Add sweet corn and green chilies</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">Rinse and pick the parsley and let it dry for chopping later. Dice the onion and cut the carrots into bite-sized pieces. Grate the garlic and set aside. </p>
 

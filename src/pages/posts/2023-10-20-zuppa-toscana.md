@@ -21,15 +21,15 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
 
 <ul>
     <li itemProp="recipeIngredient">1 pound ground chicken</li>
-    <li itemProp="recipeIngredient">1½ teaspoon salt</li>
+    <li itemProp="recipeIngredient">11/2 teaspoon salt</li>
     <li itemProp="recipeIngredient">1 teaspoon black pepper</li>
     <li itemProp="recipeIngredient">2 tablespoon fresh chopped parsley</li>
     <li itemProp="recipeIngredient">1 teaspoon garlic powder</li>
     <li itemProp="recipeIngredient">1 teaspoon onion powder</li>
     <li itemProp="recipeIngredient">1 teaspoon dried basil</li>
     <li itemProp="recipeIngredient">1 teaspoon paprika</li>
-    <li itemProp="recipeIngredient">½ teaspoon red pepper flakes</li>
-    <li itemProp="recipeIngredient">½ teaspoon ground fennel seed</li>
+    <li itemProp="recipeIngredient">1/2 teaspoon red pepper flakes</li>
+    <li itemProp="recipeIngredient">1/2 teaspoon ground fennel seed</li>
     <li itemProp="recipeIngredient">¼ teaspoon ground mustard</li>
     <li itemProp="recipeIngredient">¼ teaspoon dried oregano</li>
     <li itemProp="recipeIngredient">¼ teaspoon dried thyme</li>
@@ -49,7 +49,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
     <li itemProp="recipeIngredient">Salt and pepper to taste</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">
     Grind your fennel and mix all of the dry seasoning in a bowl. Massage your ground chicken with the spice mixture thoroughly. It might seem like a lot of seasoning but it will also flavor the soup. Put this in the fridge at least 1 hour before cooking and up to 24 hours.

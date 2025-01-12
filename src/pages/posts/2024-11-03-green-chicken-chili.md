@@ -15,7 +15,7 @@ heroImage: "/images/blog/2024-11-03-green-chicken-chili/soup.jpg"
 
 ---
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <ul>
     <li itemProp="recipeIngredient">2 tablespoons olive or avocado oil</li>
@@ -27,8 +27,8 @@ heroImage: "/images/blog/2024-11-03-green-chicken-chili/soup.jpg"
     <li itemProp="recipeIngredient">1 25oz can of white hominy</li>
     <li itemProp="recipeIngredient">2 tsp ground cumin</li>
     <li itemProp="recipeIngredient">1 tsp ground corriander</li>
-    <li itemProp="recipeIngredient">½ tsp chili powder</li>
-    <li itemProp="recipeIngredient">½ tsp paprika</li>
+    <li itemProp="recipeIngredient">1/2 tsp chili powder</li>
+    <li itemProp="recipeIngredient">1/2 tsp paprika</li>
     <li itemProp="recipeIngredient">1 tsp dried oregano</li>
     <li itemProp="recipeIngredient">1 tsp garlic powder</li>
     <li itemProp="recipeIngredient">2 tsp kosher salt</li>
@@ -42,7 +42,7 @@ heroImage: "/images/blog/2024-11-03-green-chicken-chili/soup.jpg"
     <li itemProp="recipeIngredient">Shredded cheese, avocado slices, and chopped green onions for topping</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">Chop the onions, pepper, and garlic and set aside. Drain the hominy and corn. Mix the spices into a small bowl. Pick the chicken and chop the cilantro. Squeeze the limes into a small bowl.</p>
 

@@ -10,7 +10,7 @@ heroImage: "/images/blog/2024-12-24-potatoes-au-gratin/final.jpg"
 
 <ul class="recipe-meta">
     <li>Prep time: 1 hour</li>
-    <li>Cook time: 1½ hours</li>
+    <li>Cook time: 11/2 hours</li>
 </ul>
 
 ---
@@ -19,14 +19,14 @@ Amazing cassarole that you save for special occasions. Special thanks to Claire 
 
 ![Bon Appetit](/images/blog/2024-12-24-potatoes-au-gratin/bon-appetit.png)
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <ul>
     <li itemProp="recipeIngredient">6 garlic cloves, diced</li>
     <li itemProp="recipeIngredient">2 Tbsp. unsalted butter</li>
     <li itemProp="recipeIngredient">3 medium shallots</li>
-    <li itemProp="recipeIngredient">2½ cups heavy cream</li>
-    <li itemProp="recipeIngredient">1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt</li>
+    <li itemProp="recipeIngredient">21/2 cups heavy cream</li>
+    <li itemProp="recipeIngredient">1 Tbsp. Diamond Crystal or 13/4 tsp. Morton kosher salt</li>
     <li itemProp="recipeIngredient">1 tsp. freshly ground black pepper</li>
     <li itemProp="recipeIngredient">1 Tbsp. thyme leaves, plus more for garnish</li>
     <li itemProp="recipeIngredient">4 lb. russet potatoes, scrubbed, very thinly sliced on a mandoline</li>
@@ -34,7 +34,7 @@ Amazing cassarole that you save for special occasions. Special thanks to Claire 
     <li itemProp="recipeIngredient">1 oz. Parmesan, finely grated</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">Preheat oven to 325°. Rub butter all over inside of a cassarole dish.</p>
 

@@ -8,29 +8,29 @@ category: recipe
 ---
 
 <ul class="recipe-meta">
-    <li>Prep time: ½ hour</li>
-    <li>Cook time: ½ hour</li>
+    <li>Prep time: 1/2 hour</li>
+    <li>Cook time: 1/2 hour</li>
 </ul>
 
 ---
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <ul>
     <li itemProp="recipeIngredient">3 Tbsp unsalted butter</li>
     <li itemProp="recipeIngredient">2 Tbsp all-purpose flour</li>
-    <li itemProp="recipeIngredient">1¼ to 1½ cups half-and-half or milk</li>
+    <li itemProp="recipeIngredient">1¼ to 11/2 cups half-and-half or milk</li>
     <li itemProp="recipeIngredient">8 oz white cheddar cheese, shredded</li>
     <li itemProp="recipeIngredient">¼ cup Parmesan cheese, grated</li>
     <li itemProp="recipeIngredient">1 tsp of kosher salt and 12-16 cracks of pepper, to taste</li>
-    <li itemProp="recipeIngredient">½ tsp garlic powder (optional)</li>
+    <li itemProp="recipeIngredient">1/2 tsp garlic powder (optional)</li>
     <li itemProp="recipeIngredient">¼ tsp mustard powder (optional)</li>
     <li itemProp="recipeIngredient">16 oz cooked pasta (pipe rigate, elbow macaroni, or shells)</li>
 </ul>
 
 ![](/images/blog/2024-12-29-mac-and-cheese/prep.jpg)
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p itemProp="recipeInstruction">Cook the pasta according to package instructions, subtracting 2 min for al dente. Drain and set aside.</p>
 <p itemProp="recipeInstruction">In a medium saucepan, melt the butter over medium heat. Whisk in the flour and cook for 1-2 minutes, stirring constantly.</p>

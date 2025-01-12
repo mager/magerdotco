@@ -8,7 +8,7 @@ summary: "Best enjoyed on Christmas Eve."
 
 This recipe is experimental.
 
-<h4>Ingredients:</h4>
+### Ingredients
 
 <p><em>Topping</em></p>
 <ul>
@@ -33,7 +33,7 @@ This recipe is experimental.
     <li itemProp="recipeIngredient">1 tsp pure vanilla</li>
 </ul>
 
-<h4>Instructions:</h4>
+### Instructions
 
 <p><em>Topping</em></p>
 

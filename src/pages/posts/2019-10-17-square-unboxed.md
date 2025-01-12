@@ -30,9 +30,9 @@ Hundreds of developers are here to learn about the future of commerce.
 
 > A leader cares. Not only for themselves, but they care for others. A leader takes time to make sure that the people in the commuinty where he or she is from are taken care. Take time to care.
 
-> “What are you willing to die for? Live for that.” — Andrew Young
+> “What are you willing to die for? Live for that." — Andrew Young
 
-> “Service is the rent that you pay for your room here on Earth.” — Muhammad Ali
+> “Service is the rent that you pay for your room here on Earth." — Muhammad Ali
 
 **10:22am:** Q&A with Common & Shawntee Reed, Square’s Head of Inclusion and Diversity
 
@@ -54,7 +54,7 @@ Hundreds of developers are here to learn about the future of commerce.
 
 > **Q:** How can tech companies make a difference right now?
 
-> **A:** They should make sure we are going into areas early on and teaching young people and exposing them to technology. Especially the under-served. I would encourage you to think about, “What is the purpose of your platform?”. How is it benefiting society; how is it changing lives?
+> **A:** They should make sure we are going into areas early on and teaching young people and exposing them to technology. Especially the under-served. I would encourage you to think about, “What is the purpose of your platform?". How is it benefiting society; how is it changing lives?
 
 **11:07am:** Common meet & greet. He’s awesome.
 
@@ -154,7 +154,7 @@ Moderated by Owen Jennings (Head of Growth for Cash App at Square), Andre Iguoda
 
 > Jennings: For Uber, is expanding into new verticals across logistics/shipping/driver/food grocery, is that a superpower or a detriment?
 
-> Gupta: I think it’s a superpower and it’s what will help Uber stay around for a while. The company was very disciplined with ride-sharing, and there were other businesses starting that did “Uber for **\_\_\_\_**”, and we had to be very thoughtful about whether or not we should go into a new vertical.
+> Gupta: I think it’s a superpower and it’s what will help Uber stay around for a while. The company was very disciplined with ride-sharing, and there were other businesses starting that did “Uber for **\_\_\_\_**", and we had to be very thoughtful about whether or not we should go into a new vertical.
 
 > Jennings: What is the next new vertical?
 
@@ -162,7 +162,7 @@ Moderated by Owen Jennings (Head of Growth for Cash App at Square), Andre Iguoda
 
 > Kim: We’re getting into interior design.
 
-> Dhar: Drops. Celebs can “drop” new launches on Instagram.
+> Dhar: Drops. Celebs can “drop" new launches on Instagram.
 
 > Iggy: Education will be disrupted; it will be more personalized.
 
