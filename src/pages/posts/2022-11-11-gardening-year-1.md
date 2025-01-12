@@ -2,7 +2,7 @@
 title: "Gardening: Year 1"
 pubDate: "2022-11-11"
 description: "Our first foray into outdoor plants, flowers, and herbs in Chicago."
-tags: ["Life"]
+category: "Life"
 ---
 
 After 13 years of living together, Tiner and I have never had our own outdoor space, so we've never planted anything. This year, we had the opportunity to experiment with the planters in the front, as well as build our own mini garden on the back deck with various herbs, flowers, and veggies.

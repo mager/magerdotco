@@ -4,7 +4,7 @@ pubDate: "2023-10-10"
 updatedDate: "2023-10-10"
 heroImage: "/images/blog/2023-10-10-valledolmo/valledolmo.jpg"
 description: "I had the incredible opportunity to explore a town in Sicily where my ancestors once resided and engage with the local officials."
-tags: ["Life", "Memories", "Italy"]
+category: "Life"
 ---
 
 Ciao! I have always been fascinated by my family's ancestry, particularly the roots that extend into the heart of Sicily. According to 23andMe, my DNA carries the unmistakable imprint of Sicilian heritage, a fact further substantiated by my cousin CJ’s meticulous research.

@@ -1,7 +1,7 @@
 ---
 title: Hello World
 pubDate: "2020-02-22"
-tags: ["Life"]
+category: "Code"
 description: "mager.co is back!"
 ---
 

@@ -2,7 +2,7 @@
 title: How to setup a "front gate" channel in Discord
 pubDate: "2021-10-23"
 description: Quick tutorial for making your Discord server a little safer.
-tags: ["Code"]
+category: "Code"
 ---
 
 If you're building a Discord community, security and safety are the top priorities. By creating a "front gate" channel, you require users to react to a message to gain entry into the rest of your server.

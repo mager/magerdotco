@@ -2,7 +2,7 @@
 title: "Live Blog: Square Unboxed 2019"
 pubDate: "2019-10-17"
 description: "I learned a lot at the Square developer conference"
-tags: ["Tech"]
+category: "Tech"
 ---
 
 I’m in San Francisco this week to attend the Square Developer Advisory Board and [Unboxed](https://squareunboxed.com/), Square’s developer conference.

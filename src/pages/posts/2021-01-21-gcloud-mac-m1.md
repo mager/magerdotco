@@ -2,7 +2,7 @@
 title: How to install gcloud on an M1 Mac
 pubDate: "2021-01-21"
 description: "If you're having trouble installing the gcloud CLI on your Mac m1, this should help."
-tags: ["Code"]
+category: "Code"
 ---
 
 If you have the new [ARM64-based Mac with the M1 processor](https://www.apple.com/mac/m1/), you might run into this error installing the Google Cloud SDK:

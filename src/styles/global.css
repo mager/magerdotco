@@ -31,6 +31,11 @@ h1 a:hover {
     color: #0047AB;
 }
 
+h2 {
+    font-family: "Bungee Inline", cursive;
+    font-size: 3rem;
+}
+
 nav a {
     font-family: "Luckiest Guy", cursive;
     font-size: 2rem;
