@@ -1,9 +1,10 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Detox Chicken Soup"
 pubDate: "2024-02-04"
 updatedDate: "2024-10-28"
 description: A delicious, healthy soup that will reset your system.
-category: "Recipe"
+category: recipe
 heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
 ---
 

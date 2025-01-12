@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Rigatoni alla Vodka"
 pubDate: "2020-12-31"
 description: One of my go-to "last meals" that you need to try before you die.
-category: "Recipe"
+category: recipe
 ---
 
 <ul class="recipe-meta">

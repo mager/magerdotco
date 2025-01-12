@@ -6,14 +6,26 @@ import "@fontsource/bungee-inline";
 import Nav from "./nav.astro";
 import Title from "./title.astro";
 
-const allPosts = Object.values(
-  import.meta.glob("./posts/*.md", { eager: true })
-);
-const life = allPosts.filter(
-  (post: any) => post.frontmatter.category === "Life"
-);
+interface Props {
+  category: string;
+}
 
-const pageTitle = "life";
+export function getStaticPaths() {
+  return [
+    { params: { category: "code" } },
+    { params: { category: "life" } },
+    { params: { category: "recipe" } },
+    { params: { category: "tech" } },
+  ];
+}
+
+const { category } = Astro.params;
+
+const posts = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
+const categoryPosts = posts.filter(
+  (post: any) =>
+    post.frontmatter.category.toLowerCase() === category.toLowerCase()
+);
 ---
 
 <html lang="en">
@@ -22,14 +34,14 @@ const pageTitle = "life";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>mager.co / life</title>
+    <title>mager.co / {category}</title>
   </head>
   <body>
-    <Title page={pageTitle} />
+    <Title page={category} />
     <Nav />
     <ul>
       {
-        life.map((post: any) => (
+        categoryPosts.map((post: any) => (
           <li>
             <span>{post.frontmatter.pubDate}</span>
             <a href={post.url}>{post.frontmatter.title}</a>

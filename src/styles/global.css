@@ -134,6 +134,10 @@ footer {
     background-color: white;
 }
 
+footer a {
+    font-family: "Bungee Inline", cursive;
+}
+
 ul {
     font-family: "Bungee Inline", cursive;
     list-style-type: none;

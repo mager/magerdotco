@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/post.astro"
 title: How to set up a Postgres on GCP without Cloud SQL
 pubDate: "2021-05-08"
 description: "Here are some instructions on how to setup a Postgres database in the cloud, and access it from your other cloud services like Cloud Run. This is an alternative to the managed Cloud SQL service from Google, and is more affordable if you have a smaller use case."
-category: "Code"
+category: code
 ---
 
 When I started to build [Cafebean](https://cafebean.org) ([an open coffee bean database](http://localhost:8000/posts/2021-01-03-go-fx-firestore-app/)), I decided to use Firestore as my document database for the beans & roaster data. As I add the ability for users to reviews beans, I need a relational database for that. I chose [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL) because I've used it in production before, and it's relatively straightforward to set up.

@@ -1,0 +1,37 @@
+---
+const { frontmatter } = Astro.props;
+const { title, category, pubDate, description } = frontmatter;
+---
+
+<article class="post-layout">
+  <header>
+    <h1>{title}</h1>
+    <p class="post-meta">
+      <span>{pubDate}</span> | <span>{category}</span>
+    </p>
+    <p class="post-description">{description}</p>
+  </header>
+
+  <main>
+    <slot />
+    <!-- This is where the post content will be injected -->
+  </main>
+
+  <footer>
+    <p>© {new Date().getFullYear()} mager.co</p>
+  </footer>
+</article>
+
+<style>
+  .post-layout {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Luckiest Guy", sans-serif; /* Example font */
+  }
+  .post-meta {
+    color: gray;
+    font-size: 0.9em;
+  }
+  /* Add more styles as needed */
+</style>

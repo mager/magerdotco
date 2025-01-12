@@ -1,9 +1,10 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Chicken Lemon Rice Soup"
 pubDate: "2024-03-15"
 updatedDate: "2024-12-02"
 description: A staple soup that warms the heart and calms the soul.
-category: "Recipe"
+category: recipe
 heroImage: "/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg"
 ---
 

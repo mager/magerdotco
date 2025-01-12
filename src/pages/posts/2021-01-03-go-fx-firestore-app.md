@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Building a coffee API with Go Fx and Firestore"
 pubDate: "2021-01-03"
 description: "A step-by-step walkthrough of building a Go Fx app using Firestore to build a database of coffee beans & roasters and an API to fetch & update data."
-category: "Code"
+category: code
 ---
 
 In my quest to build a [coffee-sharing app](https://cafebean.org) (think [Untappd](https://untappd.com/) for coffee), the main thing that's been holding me back is an open dataset with a ton of coffee beans and roasters. I've long searched for something like this but it doesn't seem to exist yet, so I decided to build the dataset myself in hopes that others will help me populate it.

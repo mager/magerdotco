@@ -1,7 +1,8 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Pear Gingerbread Carmel Cake"
 pubDate: "2024-11-28"
-category: "Recipe"
+category: recipe
 summary: "Best enjoyed on Christmas Eve."
 ---
 

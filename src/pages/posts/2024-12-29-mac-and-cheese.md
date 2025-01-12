@@ -1,9 +1,10 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Mac & Cheese"
 pubDate: "2024-12-29"
 updatedDate: "2024-12-30"
 description: My staple mac & cheese, just a few pantry incredients and a lot of comfort.
-category: "Recipe"
+category: recipe
 ---
 
 <ul class="recipe-meta">

@@ -1,10 +1,11 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Zuppa Toscana"
 pubDate: "2023-10-20"
 updatedDate: "2024-11-11"
 description: One of the best soups to kick off the autumn season, a variation that uses chicken sausage
 heroImage: "/images/blog/2023-10-20-zuppa-toscana/final.jpg"
-category: "Recipe"
+category: recipe
 ---
 
 <ul class="recipe-meta">

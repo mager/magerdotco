@@ -1,7 +1,8 @@
 ---
+layout: "../../layouts/post.astro"
 title: Hello World
 pubDate: "2020-02-22"
-category: "Code"
+category: code
 description: "mager.co is back!"
 ---
 

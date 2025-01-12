@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/post.astro"
 title: "Quarantine Chocolate Chip Cookies"
 pubDate: "2020-11-01"
 description: Your new go-to cookie recipe, great for quarantining.
-category: "Recipe"
+category: recipe
 ---
 
 <ul class="recipe-meta">

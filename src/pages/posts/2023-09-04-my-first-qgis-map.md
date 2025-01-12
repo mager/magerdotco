@@ -1,9 +1,10 @@
 ---
+layout: "../../layouts/post.astro"
 title: "My First QGIS Map"
 pubDate: "2023-09-04"
 updatedDate: "2023-09-04"
 description: "Exploring with an open-source mapping program. I want to design more custom maps. Check out my first experiment: Sicily: Bathymetric contours in the Mediterranean Sea."
-category: "Code"
+category: code
 ---
 
 TODO: Write more here.
