@@ -28,7 +28,7 @@ category: recipe
     <li itemProp="recipeIngredient">16 oz cooked pasta (pipe rigate, elbow macaroni, or shells)</li>
 </ul>
 
-![](/images/blog/2024-12-29-mac-and-cheese/prep.jpg)
+![](/src/images/blog/2024-12-29-mac-and-cheese/prep.jpg)
 
 ### Instructions
 

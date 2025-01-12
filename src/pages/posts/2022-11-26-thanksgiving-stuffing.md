@@ -17,7 +17,7 @@ This is one of those stuffing recipies that you can take your time to prep. Chop
 
 Thanksgiving simply isn't complete without a good stuffing, and this recipe will raise the bar on how you think about stuffing going forward. We'll borrow most of it from [Bon Appetit's "If It Ain't Broke, Don't Fix It" recipe](https://www.bonappetit.com/recipe/if-it-aint-broke-dont-fix-it-stuffing) from Chris Morroco in 2017.
 
-![If It Ain't Broke, Don't Fix It](/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-0.png)
+![If It Ain't Broke, Don't Fix It](/src/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-0.png)
 
 We've been making this stuffing for the past 4 years and so good that it's hard to try anything else. This recipe goes perfectly with my [Thankgiving Turkey](/blog/2020-11-25-thanksgiving-turkey) recipe, but it could be made year-round.
 
@@ -51,7 +51,7 @@ Cook the sausage and set aside.
 
 Put all that butter into a skillet and melt it. Throw in the mirepoix (onion, shallots, fennel, leeks, garlic) with salt and pepper and sauté until it's soft, about 10-15 minutes. Toss in the fragrant herbs (parsley, sage, thyme) for a minute or two then pour the carmelized mix into the bread bowl. Pour in the wine and sweat it out for 5 more minutes.
 
-![Onion jam](/images/blog/2022-11-26-thanksgiving-stuffing/mirepoix.jpg)
+![Onion jam](/src/images/blog/2022-11-26-thanksgiving-stuffing/mirepoix.jpg)
 
 Whisk the eggs in a bowl with half the stock (2 cups) stock and then pour that in the bowl. Add the sausage and then mix it all together.
 
@@ -59,7 +59,7 @@ Butter a 9x13-inch baking pan then pour in the bread mixture, evening it out. Po
 
 Crank up the oven to 400º convection and put the stuffing in the oven for 30 minutes. Remove the foil, take a whiff, and cook for another 35-45 minutes. At this point, the top should be crusty but the bottom should still be soft.
 
-![Finished stuffing](/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg)
+![Finished stuffing](/src/images/blog/2022-11-26-thanksgiving-stuffing/final.jpg)
 
 Let it rest for 15 minutes, and then serve. Top it with gravy for an enhanced experience.
 

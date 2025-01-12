@@ -17,7 +17,7 @@ heroImage: "/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg"
 
 This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https://cooking.nytimes.com/recipes/1020898-chicken-and-rice-soup) by Ali Slagle.
 
-![](/images/blog/2024-03-10-chicken-lemon-rice-soup/website.png)
+![](/src/images/blog/2024-03-10-chicken-lemon-rice-soup/website.png)
 
 ### Ingredients
 
@@ -46,7 +46,7 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
 
 <p itemProp="recipeInstruction">Rinse and pick the parsley and let it dry for chopping later. Dice the onion and cut the carrots into bite-sized pieces. Grate the garlic and set aside. </p>
 
-![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-1.jpg)
+![](/src/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-1.jpg)
 
 <p itemProp="recipeInstruction">Bring a large dutch oven over medium high heat and add a pad of butter, a glug of olive oil, and the chopped onions. Salt, pepper, garlic powder and carmelize these onions for 5-7 minutes.</p>
 
@@ -56,10 +56,10 @@ This recipe is partially inspired by the NY Times [Chicken and Rice Soup](https:
 
 <p itemProp="recipeInstruction">Remove the chicken from the pot and shred with two forks. Add it back to the pot with the coconut cream.</p>
 
-![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-2.jpg)
+![](/src/images/blog/2024-03-10-chicken-lemon-rice-soup/soup-2.jpg)
 
 <p itemProp="recipeInstruction">Chop the parsley and add the lemon and cook on low for as long as you want, or serve immediately. You can also add some coconut cream to thicken it up even more.</p>
 
-![](/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg)
+![](/src/images/blog/2024-03-10-chicken-lemon-rice-soup/soup.jpg)
 
 <p itemProp="recipeInstruction">Enjoy with some slices of french bread or tortilla chips!</p>

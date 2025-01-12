@@ -17,7 +17,7 @@ heroImage: "/images/blog/2024-12-24-potatoes-au-gratin/final.jpg"
 
 Amazing cassarole that you save for special occasions. Special thanks to Claire Saffitz for the inspiration from a [2023 Bon Appetit article](https://www.bonappetit.com/recipe/classic-potato-gratin).
 
-![Bon Appetit](/images/blog/2024-12-24-potatoes-au-gratin/bon-appetit.png)
+![Bon Appetit](/src/images/blog/2024-12-24-potatoes-au-gratin/bon-appetit.png)
 
 ### Ingredients
 
@@ -36,7 +36,7 @@ Amazing cassarole that you save for special occasions. Special thanks to Claire 
 
 ### Instructions
 
-<p itemProp="recipeInstruction">Preheat oven to 325°. Rub butter all over inside of a cassarole dish.</p>
+<p itemProp="recipeInstruction">Preheat oven to 325 degrees. Rub butter all over inside of a cassarole dish.</p>
 
 <p itemProp="recipeInstruction">Dice the shallots and saute with 1 tbsp of butter and olive oil. Add the diced garlic after 5 minutes, then season with salt and pepper. Now add thyme leaves and toss around for 1 minute.</p>
 
@@ -44,14 +44,14 @@ Amazing cassarole that you save for special occasions. Special thanks to Claire 
 
 <p itemProp="recipeInstruction">Peel and slice the potatoes thinly on a mandoline. Submerge them in water to prevent drying and browning. Drain when ready.</p>
 
-![Prep](/images/blog/2024-12-24-potatoes-au-gratin/prep.jpg)
+![Prep](/src/images/blog/2024-12-24-potatoes-au-gratin/prep.jpg)
 
 <p itemProp="recipeInstruction">Arrange the potato slices in the baking dish at an angle, a handful at a time, to ensure each serving has tender potatoes at the bottom and crispy edges at the top.</p>
 
-![Shingle the taters](/images/blog/2024-12-24-potatoes-au-gratin/potatoes-1.jpg)
+![Shingle the taters](/src/images/blog/2024-12-24-potatoes-au-gratin/potatoes-1.jpg)
 
 <p itemProp="recipeInstruction">Shingle all the sliced potatoes until the bottom of dish is covered. Tuck smaller slices into any gaps to fill. Pour cream mixture over potatoes and cover dish tightly with aluminum foil. Bake potatoes until tender and creamy, 65–70 minutes. Let cool.</p>
 
 <p itemProp="recipeInstruction">Place rack in highest position; heat broiler. Remove foil and top potatoes with 3 oz. Gruyère, finely grated, and 1 oz. Parmesan, finely grated. Broil until cheese is bubbling and top of gratin is golden brown, 5–10 minutes. Serve topped with more thyme leaves.</p>
 
-![Shingle the taters](/images/blog/2024-12-24-potatoes-au-gratin/final.jpg)
+![Shingle the taters](/src/images/blog/2024-12-24-potatoes-au-gratin/final.jpg)

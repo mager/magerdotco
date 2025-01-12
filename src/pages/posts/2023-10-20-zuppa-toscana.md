@@ -59,7 +59,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
     In a Dutch oven or heavy-bottomed medium pot over medium-high heat, add the olive oil and sausage and cook. Use a wooden spoon to break up the pieces. When browned and cooked through, drain and set aside.
 </p>
 
-![Chicken](/images/blog/2023-10-20-zuppa-toscana/chicken.jpg)
+![Chicken](/src/images/blog/2023-10-20-zuppa-toscana/chicken.jpg)
 
 <p itemProp="recipeInstruction">
     Keep the oil from the chicken in the pot and stir in the onions for a few minutes. You might need 1-2 more tablespoons of olive oil. Add the garlic a few minutes later; cook until onions and garlic are soft and carmelized, about 12-15 minutes.
@@ -69,7 +69,7 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
     Toss in the potatoes and coat them with the camelized onions and garlic for a minute. Pour the chicken broth into the Dutch oven and bring to a boil over medium high heat. Cover and reduce heat until potatoes are fork tender, about 15-20 minutes. Stir occasionally.
 </p>
 
-![Kale in](/images/blog/2023-10-20-zuppa-toscana/kale-in.jpg)
+![Kale in](/src/images/blog/2023-10-20-zuppa-toscana/kale-in.jpg)
 
 <p itemProp="recipeInstruction">
     Reduce the heat to medium and stir in the coconut milk, the cooked sausage for about 5 minutes. Add the kale into the soup just before serving and cook 3-5 more minutes, it should be bright green and soft.
@@ -79,4 +79,4 @@ This recipe is heavily inspired by [Cheryl Malik's recipe on 40 Aprons](https://
     Serve immediately with a crusty piece of bread and a heavy sprinkle of pecorino romano and cracked black pepper.
 </p>
 
-![Final product](/images/blog/2023-10-20-zuppa-toscana/final.jpg)
+![Final product](/src/images/blog/2023-10-20-zuppa-toscana/final.jpg)

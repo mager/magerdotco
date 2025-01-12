@@ -48,10 +48,10 @@ heroImage: "/images/blog/2024-11-03-green-chicken-chili/soup.jpg"
 
 <p itemProp="recipeInstruction">Sauté the onions for 10 mintutes with butter and avocado oil. Add the garlic, green chiles, and pepper for another 5 minutes then add the spice mixm and stir. Add the hominy and corn for 2 minutes then add the chicken for another 2 minutes. Stir constantly to incoprorate the spices.</p>
 
-![Soup](/images/blog/2024-11-03-green-chicken-chili/soup.jpg)
+![Soup](/src/images/blog/2024-11-03-green-chicken-chili/soup.jpg)
 
 <p itemProp="recipeInstruction">Add the broth and bring to a boil before turning down to low for 30 minutes. Stir every 5 minutes and add salt to taste. Add the lime juice and 3/4 of the cilantro.</p>
 
-![Soup](/images/blog/2024-11-03-green-chicken-chili/soup1.jpg)
+![Soup](/src/images/blog/2024-11-03-green-chicken-chili/soup1.jpg)
 
 <p itemProp="recipeInstruction">Serve immediately with sour cream, green onions, tortilla chips and/or garlic bread.</p>

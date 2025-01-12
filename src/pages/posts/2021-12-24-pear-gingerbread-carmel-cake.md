@@ -38,7 +38,7 @@ This recipe is experimental.
 <p><em>Topping</em></p>
 
 <ul>
-<li>Preheat your oven to 350°F (175°C).</li>
+<li>Preheat your oven to 350 degreesF (175 degreesC).</li>
 <li>Peel, core, and slice the pears into thin wedges.</li>
 <li>In a 10-inch oven-safe skillet, melt the butter over medium heat.</li>
 <li>Add the brown sugar and cinnamon to the butter, stirring until dissolved and bubbling.</li>
