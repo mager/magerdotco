@@ -9,6 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource/bungee-inline": "^5.1.1",
+    "@fontsource/jost": "^5.1.2",
+    "@fontsource/luckiest-guy": "^5.1.1",
     "astro": "^5.1.5"
   }
 }

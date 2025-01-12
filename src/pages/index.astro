@@ -1,5 +1,8 @@
 ---
-
+import "../styles/global.css";
+import Nav from "./nav.astro";
+import Title from "./title.astro";
+import Footer from "./footer.astro";
 ---
 
 <html lang="en">
@@ -11,10 +14,8 @@
     <title>mager.co</title>
   </head>
   <body>
-    <h1>mager.co</h1>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/about/">About</a>
-    </nav>
+    <Title />
+    <Nav />
+    <Footer />
   </body>
 </html>

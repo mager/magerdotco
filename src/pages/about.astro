@@ -1,5 +1,12 @@
 ---
+import "/src/styles/global.css";
+import "@fontsource/luckiest-guy";
+import "@fontsource/jost";
 
+import Nav from "./nav.astro";
+import Title from "./title.astro";
+
+const pageTitle = "about";
 ---
 
 <html lang="en">
@@ -8,14 +15,11 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>mager.co</title>
+    <title>{`mager.co / ${pageTitle}`}</title>
   </head>
   <body>
-    <h1>About</h1>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/about/">About</a>
-    </nav>
+    <Title page={pageTitle} />
+    <Nav />
     <p>
       Hey there, I'm Mager! I'm a software engineer at Uber, where I spend my
       weekdays building delivery APIs. On the weekends, you'll usually find me

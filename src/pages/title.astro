@@ -1,0 +1,26 @@
+---
+import "@fontsource/luckiest-guy";
+
+interface Props {
+  page?: string;
+}
+
+const { page } = Astro.props;
+---
+
+<h1>
+  <a href="/">mager.co</a>
+  {
+    page && (
+      <span class="breadcrumb">
+        / <a href={`/${page}`}>{page}</a>
+      </span>
+    )
+  }
+</h1>
+
+<style>
+  .breadcrumb a {
+    color: #0047ab;
+  }
+</style>
