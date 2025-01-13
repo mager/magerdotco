@@ -180,3 +180,31 @@ li a {
 li span {
     color: #ccc;
 }
+
+.foo img {
+    border: 2px solid lime;
+}
+
+.construction-banner {
+    font-family: "Bungee Inline", cursive;
+    background: linear-gradient(135deg,
+            black 25%,
+            yellow 25%,
+            yellow 50%,
+            black 50%,
+            black 75%,
+            orange 75%,
+            orange 100%);
+    color: white;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    z-index: 1000;
+    white-space: nowrap;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.construction-banner span {
+    background: black;
+}
