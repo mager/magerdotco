@@ -35,12 +35,17 @@ const formattedDate = new Date(pubDate).toLocaleDateString("en-US", {
     display: block;
     margin: 0 auto;
   }
-
   .post-header h1 {
     font-family: "Ballet", cursive;
-    font-size: 5rem;
     color: #fff;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+    font-size: 7rem;
+  }
+
+  @media (max-width: 768px) {
+    .post-header h1 {
+      font-size: 4.5rem;
+    }
   }
 
   .post-meta {
