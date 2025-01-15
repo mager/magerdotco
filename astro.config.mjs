@@ -5,7 +5,4 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: 'https://mager.co',
     trailingSlash: 'always',
-    markdown: {
-        syntaxHighlight: 'shiki',
-    },
 });

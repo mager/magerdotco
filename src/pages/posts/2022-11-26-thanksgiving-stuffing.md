@@ -17,7 +17,7 @@ This is one of those stuffing recipies that you can take your time to prep. Chop
 
 Thanksgiving simply isn't complete without a good stuffing, and this recipe will raise the bar on how you think about stuffing going forward. We'll borrow most of it from [Bon Appetit's "If It Ain't Broke, Don't Fix It" recipe](https://www.bonappetit.com/recipe/if-it-aint-broke-dont-fix-it-stuffing) from Chris Morroco in 2017.
 
-![If It Ain't Broke, Don't Fix It](/src/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-0.png)
+![Bon Appetit](/src/images/blog/2022-11-26-thanksgiving-stuffing/stuffing-0.png)
 
 We've been making this stuffing for the past 4 years and so good that it's hard to try anything else. This recipe goes perfectly with my [Thankgiving Turkey](/blog/2020-11-25-thanksgiving-turkey) recipe, but it could be made year-round.
 

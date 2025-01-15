@@ -1,36 +1,35 @@
 ---
+import Nav from "../components/nav.astro";
+import Title from "../components/title.astro";
+import ConstructionBanner from "../components/construction-banner.astro";
+import Footer from "../components/footer.astro";
+import "../styles/global.css";
+
 const { frontmatter } = Astro.props;
-const { title, category, pubDate, description } = frontmatter;
+const { category, pubDate, description } = frontmatter;
 ---
 
-<article class="post-layout">
-  <header>
-    <h1>{title}</h1>
-    <p class="post-meta">
-      <span>{pubDate}</span> | <span>{category}</span>
-    </p>
-    <p class="post-description">{description}</p>
-  </header>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <ConstructionBanner />
+    <Title />
+    <Nav />
+    <header>
+      <h1>{frontmatter.title}</h1>
+      <p class="post-meta">
+        <span>{pubDate}</span> | <span>{category}</span>
+      </p>
+      <p class="post-description">{description}</p>
+    </header>
 
-  <main class="foo">
-    <slot />
-  </main>
+    <main class="post">
+      <slot />
+    </main>
 
-  <footer>
-    <p>© {new Date().getFullYear()} mager.co</p>
-  </footer>
-</article>
-
-<style>
-  .post-layout {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: "Luckiest Guy", sans-serif; /* Example font */
-  }
-  .post-meta {
-    color: gray;
-    font-size: 0.9em;
-  }
-  /* Add more styles as needed */
-</style>
+    <Footer />
+  </body>
+</html>
