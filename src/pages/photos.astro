@@ -3,8 +3,8 @@ import "../styles/global.css";
 import "@fontsource/luckiest-guy";
 import "@fontsource/bungee-inline";
 
-import Nav from "./nav.astro";
-import Title from "./title.astro";
+import Nav from "../components/nav.astro";
+import Title from "../components/title.astro";
 
 const allPosts = Object.values(
   import.meta.glob("./posts/*.md", { eager: true })

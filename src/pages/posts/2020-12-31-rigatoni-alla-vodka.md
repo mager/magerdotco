@@ -38,35 +38,35 @@ I'm jealous that you're getting ready to cook this tonight.
 
 ### Instructions
 
-<p itemProp="recipeInstructions">To prepare: dice the onion small, press or mince the garlic, and shred some fresh parm. I like to pour the vodka in a small glass and prepare a measuring cup (for the cream, for later).</p>
+To prepare: dice the onion small, press or mince the garlic, and shred some fresh parm. I like to pour the vodka in a small glass and prepare a measuring cup (for the cream, for later).
 
-<p itemProp="recipeInstruction">Fill a big stockpot with water and dump a handful of salt in there. Add a little more than you think you're supposed to add.</p>
+Fill a big stockpot with water and dump a handful of salt in there. Add a little more than you think you're supposed to add.
 
-<p itemProp="recipeInstruction">Once the water is started, put a dutch oven or large skillet over medium high heat and add the oil.</p>
+Once the water is started, put a dutch oven or large skillet over medium high heat and add the oil.
 
-<p itemProp="recipeInstruction">Sauté the onions for about 10 minutes until translucent. Add the garlic and sautee for a few more minutes. At this point you can season with salt & pepper. Once the onions and garlic start to brown a little bit, move on to the next step.</p>
+Sauté the onions for about 10 minutes until translucent. Add the garlic and sautee for a few more minutes. At this point you can season with salt & pepper. Once the onions and garlic start to brown a little bit, move on to the next step.
 
-<p itemProp="recipeInstruction"><em>If you want it to be super tomato-y, you can add a small can of diced tomatoes now. I have made this with and without the extra tomatoes and I slighly prefer the extra tomato flavor. That being said, I don't include the extra tomatos in the ingredient list because this dish is still perfect without them.</em></p>
+<em>If you want it to be super tomato-y, you can add a small can of diced tomatoes now. I have made this with and without the extra tomatoes and I slighly prefer the extra tomato flavor. That being said, I don't include the extra tomatos in the ingredient list because this dish is still perfect without them.</em>
 
-<p itemProp="recipeInstruction">Now squirt all the tomato paste into the pan and stir it around for 5-10 minutes until combined. The goal is to dry it out and super-camalized the onions and tomatoes until it's sweet.</p>
+Now squirt all the tomato paste into the pan and stir it around for 5-10 minutes until combined. The goal is to dry it out and super-camalized the onions and tomatoes until it's sweet.
 
-<p itemProps="recipeInstruction">You wanna cook down & reduce the paste until it's almost brown. It will look ugly but that's okay.</p>
+<p itemProps="recipeInstruction">You wanna cook down & reduce the paste until it's almost brown. It will look ugly but that's okay.
 
-<p itemProp="recipeInstruction">Add the vodka to deglaze and keep stiring for a few minutes; it will evaporate pretty quickly. I prefer Tito's or Chopin potato vodka. Be sure to taste the vodka while you're cooking for a more immersive experience.</p>
+Add the vodka to deglaze and keep stiring for a few minutes; it will evaporate pretty quickly. I prefer Tito's or Chopin potato vodka. Be sure to taste the vodka while you're cooking for a more immersive experience.
 
-<p itemProp="recipeInstruction">By now, the water should be close to boiling. Grab that measuring cup and scoop out ¼ of the hot water. Pour the 3/4 cup cream over the hot water to warm it up a bit (this will prevent the cream from breaking apart when you mix it in with the tomato jam).</p>
+By now, the water should be close to boiling. Grab that measuring cup and scoop out ¼ of the hot water. Pour the 3/4 cup cream over the hot water to warm it up a bit (this will prevent the cream from breaking apart when you mix it in with the tomato jam).
 
-<p itemProp="recipeInstruction">At this point, you will want to turn down the heat to medium low or low and slowly add the diluted cream mixture. Add a little at a time, then stir. If you get the end of your cream and want it creamier, add more (we're not going for healthy here).</p>
+At this point, you will want to turn down the heat to medium low or low and slowly add the diluted cream mixture. Add a little at a time, then stir. If you get the end of your cream and want it creamier, add more (we're not going for healthy here).
 
-<p itemProp="recipeInstruction">Drop the pasta in the boiling water and continue to slowly cook the sauce for about 10 min. It will thicken and smell really good.</p>
+Drop the pasta in the boiling water and continue to slowly cook the sauce for about 10 min. It will thicken and smell really good.
 
-<p itemProp="recipeInstruction">Cook the pasta al dente (because it's gonna cook a little more in the sauce). Two minutes before it's supposed to be done, scoop out 1 cup of starchy pasta water and set aside. Drain the pasta or spider it straight into the sauce mixture.</p>
+Cook the pasta al dente (because it's gonna cook a little more in the sauce). Two minutes before it's supposed to be done, scoop out 1 cup of starchy pasta water and set aside. Drain the pasta or spider it straight into the sauce mixture.
 
-<p itemProp="recipeInstruction">Stir the pasta with the tomato mixture and add ¼ cup of water and a handful of parm at a time and watch it thicken up even more. You can go overboard on the parm.</p>
+Stir the pasta with the tomato mixture and add ¼ cup of water and a handful of parm at a time and watch it thicken up even more. You can go overboard on the parm.
 
-<p itemProp="recipeInstruction">At this point you're drooling and ready to eat. Plate or bowl the pasta and top with more parm and freshly torn basil (shoutout to <a href="https://www.gothamgreens.com/" target="_blank">Gotham Greens</a>).</p>
+At this point you're drooling and ready to eat. Plate or bowl the pasta and top with more parm and freshly torn basil (shoutout to <a href="https://www.gothamgreens.com/" target="_blank">Gotham Greens</a>).
 
-<p itemProp="recipeInstruction">If you want to jazz it up even more, you can bake it in a casarole with fresh ricotta & mozzarella (20 min at 375 degrees). If you do this, make the pasta even more al dente.</p>
+If you want to jazz it up even more, you can bake it in a casarole with fresh ricotta & mozzarella (20 min at 375 degrees). If you do this, make the pasta even more al dente.
 
 ![Finished product](/src/images/blog/2020-12-31-rigatoni-alla-vodka/rigs-2.jpg)
 

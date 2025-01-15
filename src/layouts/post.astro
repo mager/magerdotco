@@ -1,4 +1,7 @@
 ---
+import "@fontsource/jost";
+import "@fontsource/ballet";
+import "@fontsource/luckiest-guy";
 import Nav from "../components/nav.astro";
 import Title from "../components/title.astro";
 import ConstructionBanner from "../components/construction-banner.astro";
@@ -7,7 +10,45 @@ import "../styles/global.css";
 
 const { frontmatter } = Astro.props;
 const { category, pubDate, description } = frontmatter;
+const formattedDate = new Date(pubDate).toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
 ---
+
+<style is:global>
+  main {
+    font-family: "Jost", sans-serif;
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .post-header h1 {
+    font-family: "Ballet", cursive;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+  }
+
+  .post-meta {
+    font-family: "Luckiest Guy", cursive;
+    font-size: 1.2rem;
+    color: #999;
+    margin-bottom: 1rem;
+  }
+</style>
 
 <html lang="en">
   <head>
@@ -18,15 +59,14 @@ const { category, pubDate, description } = frontmatter;
     <ConstructionBanner />
     <Title />
     <Nav />
-    <header>
+    <div class="post-header">
       <h1>{frontmatter.title}</h1>
       <p class="post-meta">
-        <span>{pubDate}</span> | <span>{category}</span>
+        <span>{formattedDate}</span> | <span>{category}</span>
       </p>
-      <p class="post-description">{description}</p>
-    </header>
+    </div>
 
-    <main class="post">
+    <main>
       <slot />
     </main>
 
