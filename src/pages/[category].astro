@@ -21,7 +21,9 @@ export function getStaticPaths() {
 
 const { category } = Astro.params;
 
-const posts = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
+const posts = Object.values(import.meta.glob("./posts/*.md", { eager: true }))
+  .sort((post: any) => new Date(post.frontmatter.pubDate).getTime())
+  .reverse();
 const categoryPosts = posts.filter(
   (post: any) =>
     post.frontmatter.category.toLowerCase() === category.toLowerCase()

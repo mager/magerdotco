@@ -19,7 +19,7 @@ h1 {
     font-size: 5rem;
     font-family: "Luckiest Guy", cursive;
     margin: 0;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: #fff;
 }
 
 a {
@@ -110,9 +110,13 @@ li {
 }
 
 li a {
-    color: #000;
+    color: #0044ff;
+}
+
+li a:hover {
+    color: #fff;
 }
 
 li span {
-    color: #ccc;
+    color: #aaa;
 }
