@@ -1,5 +1,15 @@
+:root {
+    --main-bg-color: #D9CDBF;
+    --main-text-color: #403426;
+    --main-link-color: #467302;
+    --main-link-hover-color: #467302;
+    --main-secondary-color: #A69A85;
+}
+
+
+
 html {
-    background-color: #1A1A1A;
+    background-color: var(--main-bg-color);
     color: #fff;
     font-family: "Jost", sans-serif;
 }
@@ -19,16 +29,17 @@ h1 {
     font-size: 5rem;
     font-family: "Luckiest Guy", cursive;
     margin: 0;
-    color: #fff;
+    color: var(--main-text-color);
 }
 
 a {
-    color: #0044ff;
+    color: var(--main-link-color);
     text-decoration: none;
 }
 
 h1 a:hover {
-    border-bottom: 8px dashed #ddd;
+    border-bottom: 8px dashed #2C4001;
+    color: var(--main-link-hover-color);
 }
 
 h2 {
@@ -46,11 +57,12 @@ nav a {
 
 nav a {
     text-decoration: none;
-    color: #0044ff;
+    color: var(--main-text-color);
 }
 
 nav a:hover {
-    border-bottom: 4px dashed #ddd;
+    color: var(--main-link-hover-color);
+    border-bottom: 4px dashed var(--main-link-hover-color);
 }
 
 
@@ -110,13 +122,13 @@ li {
 }
 
 li a {
-    color: #0044ff;
+    color: var(--main-text-color);
 }
 
 li a:hover {
-    color: #fff;
+    color: var(--main-link-hover-color);
 }
 
 li span {
-    color: #aaa;
+    color: var(--main-secondary-color);
 }

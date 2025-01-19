@@ -10,7 +10,7 @@ category: life
 
 Ciao! I have always been fascinated by my family's ancestry, particularly the roots that extend into the heart of Sicily. According to 23andMe, my DNA carries the unmistakable imprint of Sicilian heritage, a fact further substantiated by my cousin CJ’s meticulous research.
 
-![](/src/images/blog/2023-10-10-valledolmo/23andme-sicily.png)
+![](../../../public/images/blog/2023-10-10-valledolmo/23andme-sicily.png)
 
 My maternal grandfather's great grandfather may have been named Antonio La Duca and he came from a place called [Valledolmo](https://en.wikipedia.org/wiki/Valledolmo), a quaint town nestled amidst Sicily's rolling hills, about 45 minutes southeast of Palermo. Wikitree also shows a vast network of [La Ducas hailing from Valledolmo](https://www.wikitree.com/genealogy/la%20duca).
 

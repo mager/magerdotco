@@ -35,8 +35,13 @@ const formattedDate = new Date(pubDate).toLocaleDateString("en-US", {
   }
   .post-header h1 {
     font-family: "Ballet", cursive;
-    color: #fff;
+    color: #403426;
     font-size: 7rem;
+  }
+
+  h3 {
+    font-size: 3.5rem;
+    color: #a69a85;
   }
 
   @media (max-width: 768px) {
@@ -48,7 +53,7 @@ const formattedDate = new Date(pubDate).toLocaleDateString("en-US", {
   .post-meta {
     font-family: "Luckiest Guy", cursive;
     font-size: 1.2rem;
-    color: #999;
+    color: #467302;
     margin-bottom: 1rem;
   }
 </style>
@@ -59,7 +64,6 @@ const formattedDate = new Date(pubDate).toLocaleDateString("en-US", {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
-    <ConstructionBanner />
     <Title />
     <Nav />
     <div class="post-header">

@@ -9,6 +9,6 @@ category: code
 
 TODO: Write more here.
 
-![](/src/images/blog/2023-09-04-my-first-qgis-map/sicily-bathymetric-contours.png)
+![](../../../public/images/blog/2023-09-04-my-first-qgis-map/sicily-bathymetric-contours.png)
 
-[Download the PDF here](/src/images/blog/2023-09-04-my-first-qgis-map/sicily-bathymetric-contours.pdf).
+[Download the PDF here](../../../public/images/blog/2023-09-04-my-first-qgis-map/sicily-bathymetric-contours.pdf).

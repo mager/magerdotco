@@ -17,7 +17,7 @@ heroImage: "/images/blog/2024-02-04-detox-chicken-soup/soup.jpg"
 
 This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbirdfood.com/detox-soup).
 
-![](/src/images/blog/2024-02-04-detox-chicken-soup/detox-soup-website.png)
+![](../../../public/images/blog/2024-02-04-detox-chicken-soup/detox-soup-website.png)
 
 ### Ingredients
 
@@ -47,16 +47,16 @@ This recipe is inspired by Brittany Mullins' [Detox Soup](https://www.eatingbird
 
 <p itemProp="recipeInstruction">In a large Dutch oven or soup pot, add oil and butter. Once hot, add onion and saute for 10 minutes. Next, add the carrots, broccoli and peppers and saute for 5-6 minutes, stirring occasionally. Add mushrooms, garlic, ginger, turmeric, cayenne, salt and pepper. Saute for a few minutes longer.</p>
 
-![](/src/images/blog/2024-02-04-detox-chicken-soup/soup-1.jpg)
+![](../../../public/images/blog/2024-02-04-detox-chicken-soup/soup-1.jpg)
 
 <p itemProp="recipeInstruction">Add chicken broth and chicken to the pot.</p>
 
 <p itemProp="recipeInstruction">Bring the mixture to a boil, reduce heat to a simmer and cover. Simmer for about 20 minutes or until chicken is fully cooked. </p>
 
-![](/src/images/blog/2024-02-04-detox-chicken-soup/soup-2.jpg)
+![](../../../public/images/blog/2024-02-04-detox-chicken-soup/soup-2.jpg)
 
 <p itemProp="recipeInstruction">When chicken is fully cooked, remove from pot and chop the chicken. Place chicken back into the soup and stir in fresh cilantro, tamari, coconut cream and lemon juice.</p>
 
 <p itemProp="recipeInstruction">Serve with extra chopped cilantro on top and side of choice. Tear a piece of french baguette off it's a cheat day.</p>
 
-![](/src/images/blog/2024-02-04-detox-chicken-soup/soup.jpg)
+![](../../../public/images/blog/2024-02-04-detox-chicken-soup/soup.jpg)
