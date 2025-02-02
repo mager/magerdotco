@@ -64,13 +64,9 @@ a:hover {
 	text-decoration: none;
 }
 
-/* ... rest of your global styles from previous example ... */
-
-/* Add styles for elements used across components but not specifically in one */
 .date {
 	font-style: italic;
 	margin-bottom: 1em;
-	/* Add margin for better spacing */
 }
 
 article {
@@ -81,13 +77,12 @@ article {
 	margin: 0 20px;
 }
 
-/*  Move this to global CSS
 ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0 auto;
-      }
-*/
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+}
+
 ul li {
 	display: block;
 	/* removed flex */
@@ -121,9 +116,7 @@ ul li a:hover {
 .container {
 	max-width: 960px;
 	margin: 0 auto;
-	/* Center the container */
 	padding: 1rem;
-	/* Add some padding around content */
 }
 
 main {

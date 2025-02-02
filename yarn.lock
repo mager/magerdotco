@@ -429,6 +429,11 @@
   resolved "https://registry.npmjs.org/@fontsource/ibm-plex-mono/-/ibm-plex-mono-5.1.1.tgz"
   integrity sha512-1aayqPe/ZkD3MlvqpmOHecfA3f2B8g+fAEkgvcCd3lkPP0pS1T0xG5Zmn2EsJQqr1JURtugPUH+5NqvKyfFZMQ==
 
+"@fontsource/raleway-dots@^5.1.1":
+  version "5.1.1"
+  resolved "https://registry.npmjs.org/@fontsource/raleway-dots/-/raleway-dots-5.1.1.tgz"
+  integrity sha512-aQbL8G59Du+VK8rqiEHg58tuO3ikEIoYu37YEu/7bRMr64wF6XbthfHaHYkV+pZpVxFms6yqH2KTONE+n+o0Pg==
+
 "@fontsource/source-code-pro@^5.1.1":
   version "5.1.1"
   resolved "https://registry.npmjs.org/@fontsource/source-code-pro/-/source-code-pro-5.1.1.tgz"

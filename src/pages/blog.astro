@@ -4,7 +4,6 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 
-// Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
   (a, b) =>
     new Date(b.frontmatter.pubDate).valueOf() -
@@ -14,7 +13,7 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-    <link rel="stylesheet" href="/styles.css"> {/* Link to your CSS file */}
+    <link rel="stylesheet" href="/styles.css"> 
   </head>
 
   <body>
@@ -22,7 +21,7 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
     <main>
       <section>
         <div class="intro">
-          <h1>Blog</h1>
+          <h1>Feed</h1>
           <p>Mostly ramblings about code, food, and my hobbies.</p>
         </div>
         <div class="list">

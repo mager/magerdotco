@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 export interface Props extends astroHTML.JSX.AnchorHTMLAttributes {}
 
 const { href, class: className, ...props } = Astro.props;
@@ -9,24 +10,3 @@ const { href, class: className, ...props } = Astro.props;
     <slot />
   </a>
 </div>
-
-<style>
-  .logo-container {
-    padding: 20px 0 0;
-    text-align: center; 
-  }
-
-  .logo {
-    color: #fff !important;
-    font-family: 'Space Mono', monospace; 
-    font-size: 3.5rem;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    transition: color 0.3s ease; 
-  }
-
-  .logo:hover {
-    color: #00bcd4 !important; /* Change hover color to a bright cyan */
-  }
-</style>
